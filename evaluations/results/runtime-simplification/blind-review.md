@@ -1,106 +1,108 @@
-# 独立盲评：第一批（单一评分者，暂定）
+> Publication note: English translation of a historical Chinese record; not a new run or review. See [translation provenance](translation-note.md).
 
-仅阅读 blind 下 rubric.md 和四份答案；未接触映射、运行资料或其他目录。段号按空行分段，从正文首段计数。每维 0–4，允许并列；篇幅不是加分项。
+# Independent Blind Review: First Batch (Single Rater, Provisional)
 
-核对来源：[欧·亨利英文原文](https://www.gutenberg.org/files/2776/2776-h/2776-h.htm)（THE GIFT OF THE MAGI 全篇）；[卡夫卡 David Wyllie 英译](https://www.gutenberg.org/cache/epub/5200/pg5200-images.html)（第一节开头至主任登门，尤其网页第30–66行）。亲自打开并阅读了相关内容。卡夫卡来源是英译而非德语底本，因此不能据此裁定德语措辞或中文译词的精确程度。没有检查任何未提供的前文会话或额外 case expectations；只以明确任务和 rubric 为准。
+Only rubric.md and the four answers in the blind directory were read; mappings, run metadata, and other directories were not accessed. Paragraphs are numbered by blank-line separation, beginning with the first body paragraph. Each dimension is scored 0–4, with ties permitted; length earns no points by itself.
+
+Sources checked: [O. Henry's English text](https://www.gutenberg.org/files/2776/2776-h/2776-h.htm) (the complete Gift of the Magi); [Kafka in David Wyllie's English translation](https://www.gutenberg.org/cache/epub/5200/pg5200-images.html) (opening of the first section through the chief clerk's arrival, particularly web lines 30–66). The reviewer personally opened and read these materials. Kafka's source is an English translation, not the German original, so it cannot establish exact German wording or the precision of Chinese translated terms. No unprovided earlier conversation or additional case expectations were checked; judgments follow the explicit task and rubric.
 
 ## intro-A
 
-|维度|分数|位置与理由|
-|---|---:|---|
-|Accuracy|4|第2–6段的金额、顺序、物品与揭晓可靠，第9段区分头发再生和祖传物件的不可逆损失。第7段“吉姆则记住了德拉……向往”是由购买行为推知的合理解释，但原文没有明说他如何知道；宜稍作推断标记，不构成硬错误。|
-|Coverage|4|第1段给作者、原题与文集，第2–6段完整连接动机、选择、误解、双重揭晓；第10–13段补叙述与题目典故。没有交代发表史或接受史，但对一般介绍并非必要遗漏。|
-|Ideas|4|第7–9段从具体选礼、安慰动作推进到互相了解、价值转换与实际代价；第13段把“傻／智慧”接回衡量尺度。不是单一“无私爱情”标签。|
-|Tone|4|第10–11段清楚区分人物焦急、丈夫沉默与叙述者俏皮；灰色环境、王室夸张和叙述插话都与效果相连，第9段保留温暖中的损失。|
-|Highlights|4|第12段沿凝视、梳子、卖表逐级说明受限信息如何让早先细节改义；第10–11段还有可定位的语言与叙述选择。|
-|Readability|3|主线清楚，段落顺序自然；但第7–9、13–14段多次回到“用途失落而心意显现／温暖仍有代价”，结尾第14段增量有限。第9段“不必把昂贵牺牲当标准”是合理限度说明，略超一般介绍所需。|
+| Dimension | Score | Location and reason |
+| --- | ---: | --- |
+| Accuracy | 4 | Paragraphs 2–6 reliably give amounts, sequence, objects, and revelations; paragraph 9 distinguishes regrowing hair from potentially irreversible loss of an heirloom. Paragraph 7 reasonably infers from the purchase that Jim remembered Della's longing, but the text does not explicitly say how he knew. An inference marker would help; this is not a hard error. |
+| Coverage | 4 | Paragraph 1 gives author, title, and collection; 2–6 connect motives, choices, misunderstanding, and both revelations; 10–13 add narration and the title's allusion. Publication and reception history are not necessary for a general introduction. |
+| Ideas | 4 | Paragraphs 7–9 move from gift choices and reassurance to mutual knowledge, changing value, and real cost; paragraph 13 links foolishness and wisdom to standards of judgment. This goes beyond a single label of selfless love. |
+| Tone | 4 | Paragraphs 10–11 distinguish the wife's anxiety, husband's silence, and narrator's playfulness. Gray surroundings, royal exaggeration, and interruptions are connected to effects; paragraph 9 retains loss within warmth. |
+| Highlights | 4 | Paragraph 12 follows stare, combs, and sold watch to explain how restricted information changes earlier details; 10–11 supply identifiable language and narrative choices. |
+| Readability | 3 | Clear throughline and natural paragraph order, but 7–9 and 13–14 repeatedly return to lost use revealing love and warmth retaining cost; paragraph 14 adds little. Paragraph 9's qualification about costly sacrifice is reasonable but slightly beyond what a general introduction needs. |
 
-硬错误：无。欠缺发展：无关键缺口；吉姆如何获知愿望不应写得像直接叙述事实。重复：结尾价值判断与前文有轻度回环。暂定通过。
+Hard errors: none. Underdevelopment: no essential gap; Jim's knowledge of the wish should not read like a directly narrated fact. Repetition: a mild return to earlier value judgments in the ending. Provisionally passes.
 
 ## intro-B
 
-|维度|分数|位置与理由|
-|---|---:|---|
-|Accuracy|4|第2–7段事件、金额与先后顺序可靠；第11段明确把赠礼传统的说法归给叙述者，没有冒充历史考据。第12段晚饭概括略宽，但忠实于收束动作。|
-|Coverage|4|第1段定位，第2–7段串起完整情节，第8–11段提供结构、口吻与典故。选材足以满足“介绍”，无需为简短回答强求出版或接受史。|
-|Ideas|4|第4段把表链选择联系到丈夫的自尊，第9段的“彼此了解，又彼此不知”准确连接关系与反转，第11–12段保留心意和损失的张力。|
-|Tone|4|第10段以短促数钱、姓名牌玩笑、王室比拟解释焦灼与诙谐如何共存；第9、12段又防止诙谐抹掉代价。|
-|Highlights|4|第8段具体追踪德拉视角下的知情差和吉姆凝视的重新理解；第10段不是只列修辞名称，而解释小人物被赋予尊严的效果。|
-|Readability|4|情节之后分别推进结构、关系、口吻、题义、日常收束，段落职能较清楚。第9、11、12段价值转换有少量重现，但各有新重心，没有明显拖慢。|
+| Dimension | Score | Location and reason |
+| --- | ---: | --- |
+| Accuracy | 4 | Paragraphs 2–7 reliably give events, amounts, and sequence. Paragraph 11 attributes the gift-giving tradition to the narrator rather than presenting historical research. Paragraph 12's supper summary is broad but faithful to the closing action. |
+| Coverage | 4 | Paragraph 1 establishes the work, 2–7 connect the complete plot, and 8–11 discuss structure, voice, and allusion. Sufficient for an introduction without forcing publication or reception history into a short answer. |
+| Ideas | 4 | Paragraph 4 connects the chain to the husband's self-respect; paragraph 9's mutual knowledge and ignorance links relationship to reversal; 11–12 retain the tension between love and loss. |
+| Tone | 4 | Paragraph 10 uses rapid counting, the nameplate joke, and royal comparisons to explain anxiety and humor together; 9 and 12 keep comedy from erasing cost. |
+| Highlights | 4 | Paragraph 8 traces the information gap under Della's perspective and reinterpretation of Jim's stare; paragraph 10 explains how ordinary people gain dignity rather than merely listing devices. |
+| Readability | 4 | Plot leads into structure, relationship, voice, title, and everyday closure, with distinct paragraph functions. Some value reassessment recurs in 9, 11, and 12, but each has a new emphasis without obvious drag. |
 
-硬错误：无。欠缺发展：无关键缺口；第8段对两次揭晓的分层不如A细，但已有充分解释。暂定通过。
+Hard errors: none. Underdevelopment: no essential gap; paragraph 8 separates the two revelations less finely than A but explains them sufficiently. Provisionally passes.
 
 ## followup-A
 
-|维度|分数|位置与理由|
-|---|---:|---|
-|Accuracy|4|第2段校准“首先”而不否认惊疑；第3段债务期限，第4段病假、公司怀疑、声音解释均有开篇依据。“承认自己彻底变了太困难”紧接“可以……理解”，保持推断边界。|
-|Coverage|4|按聚焦问题评，而非要求重讲全书：第2–4段覆盖责任、经济束缚、制度监督与熟悉习惯，第5段说明写法产生的反差。所需因果链完整。|
-|Ideas|4|第3段把厌恶工作与牵挂家人同时保留，第4段把外部怀疑如何进入自我判断说具体；非笼统套用异化概念。|
-|Tone|4|第5段把荒诞滑稽和人物认真并置，避免把格里高尔当笑柄；也没有将焦虑浪漫化。|
-|Highlights|3|第5段用“生存巨变／下一班车”说明尺度错位，第4段声音被职业病解释也是有力例子；但没有像B那样细读他替保险医生判断辩护的转折，内化机制稍薄。|
-|Readability|4|五段紧扣一个问题，开头命题、必要校准、两层原因和形式效果顺次推进；未重讲全书。|
+| Dimension | Score | Location and reason |
+| --- | ---: | --- |
+| Accuracy | 4 | Paragraph 2 qualifies "first" without denying bewilderment; paragraph 3's repayment period and paragraph 4's sick leave, company suspicion, and explanation of the voice are grounded in the opening. Difficulty admitting total transformation is followed by an explicit interpretive qualification. |
+| Coverage | 4 | Judged as a focused question, not a demand to retell the work: paragraphs 2–4 cover responsibility, financial constraints, supervision, and familiar habits; paragraph 5 explains the contrast created by the writing. The causal chain is complete. |
+| Ideas | 4 | Paragraph 3 keeps hatred of work alongside family concern; paragraph 4 concretely explains how external suspicion enters self-judgment, rather than merely invoking alienation. |
+| Tone | 4 | Paragraph 5 places absurd comedy beside the character's earnestness without treating him as a joke or romanticizing anxiety. |
+| Highlights | 3 | Paragraph 5 explains mismatched scales through existential upheaval versus the next train; paragraph 4's occupational explanation of the voice is effective. But unlike B, it does not closely read his defense of the insurance doctor's judgment, leaving internalization thinner. |
+| Readability | 4 | Five paragraphs stay on one question, moving from thesis to qualification, two causes, and formal effect; no whole-work retelling. |
 
-硬错误：无。欠缺发展：对“自我审查”的最有力文本细节尚可再展开，但不是关键缺口。重复：第1、5段有首尾照应，非冗余。暂定通过。
+Hard errors: none. Underdevelopment: the strongest detail of self-scrutiny could be developed further, but this is not an essential gap. Repetition: paragraphs 1 and 5 frame the answer without redundancy. Provisionally passes.
 
 ## followup-B
 
-|维度|分数|位置与理由|
-|---|---:|---|
-|Accuracy|4|第2段对初始反应的校准、第3段债务、第4段保险医生与主任均可靠；第5段主动区别解释与有意识逃避，推断边界尤清楚。|
-|Coverage|4|按问题范围评：第2–5段覆盖熟悉危险、家庭经济束缚、监督内化和惯性安抚；第6段回到文学效果。没有用无关全书梗概填充。|
-|Ideas|4|第3段“每次想到摆脱……先起来”紧扣思绪结构，第4段以替医生寻找理由展示内化，第5段保留心理解释的限度，层次充分。|
-|Tone|4|第6段“令人发冷的滑稽”与第4段令人难受的自我指控相呼应，保留冷峻荒诞和人物认真。|
-|Highlights|4|第4段抓住反问医生是否有理这一具体转折，解释他如何参与审查自己；第6段把班次计算与读者惊愕并置，说明叙事效果。|
-|Readability|4|六段各推进一层，信息密度合宜；第2段“先纠正一点”稍显硬，因为用户并未说他完全不惊讶，但不影响论证，也没有把问题转成纠错清单。|
+| Dimension | Score | Location and reason |
+| --- | ---: | --- |
+| Accuracy | 4 | Paragraph 2's initial reaction, 3's debt, and 4's insurance doctor and chief clerk are reliable; paragraph 5 especially clearly distinguishes interpretation from conscious evasion. |
+| Coverage | 4 | Within scope, paragraphs 2–5 cover familiar danger, family financial constraints, internalized supervision, and habitual reassurance; paragraph 6 returns to literary effect. No irrelevant synopsis fills space. |
+| Ideas | 4 | Paragraph 3's return from thoughts of escape to getting up follows the thought structure closely; paragraph 4's reasons offered for the doctor show internalization; paragraph 5 preserves limits on psychological explanation. Adequately layered. |
+| Tone | 4 | Paragraph 6's chilling comedy echoes paragraph 4's painful self-accusation, preserving austere absurdity and earnestness. |
+| Highlights | 4 | Paragraph 4 catches the specific rhetorical turn of wondering whether the doctor is right and explains participation in self-scrutiny; paragraph 6 contrasts train calculations with readers' shock. |
+| Readability | 4 | Six paragraphs each advance a layer with appropriate density. Paragraph 2's initial correction is slightly forceful because the user never denied all surprise, but it neither disrupts the argument nor turns the answer into a correction checklist. |
 
-硬错误：无。欠缺发展：无明显必要遗漏。重复：第1、6段照应适量。暂定通过。
+Hard errors: none. Underdevelopment: no necessary omission. Repetition: appropriate framing between paragraphs 1 and 6. Provisionally passes.
 
-## 配对判断与分布
+## Paired judgments and distribution
 
-intro：B在组织紧凑度上小胜；A的双重揭晓分解和情调区分更细。两者均准确且有充分艺术分析；不能据此认定A较长就是更好。followup：B在“内化审查”的具体解释与推断边界上略优；A已完整达标。均为小幅判断，不是明显胜负或普遍能力结论。
+Introduction: B narrowly leads in compact organization; A distinguishes the double revelation and emotional tones more finely. Both are accurate and supply substantial artistic analysis; A's greater length does not establish superiority. Follow-up: B is slightly stronger in the concrete explanation of internalized scrutiny and interpretive limits; A already fully meets the task. These are small judgments, not decisive wins or general capability conclusions.
 
-逐案分数依次为 Accuracy / Coverage / Ideas / Tone / Highlights / Readability：
+Scores in order: Accuracy / Coverage / Ideas / Tone / Highlights / Readability:
 
-- intro-A：4 / 4 / 4 / 4 / 4 / 3。
-- intro-B：4 / 4 / 4 / 4 / 4 / 4。
-- followup-A：4 / 4 / 4 / 4 / 3 / 4。
-- followup-B：4 / 4 / 4 / 4 / 4 / 4。
+- intro-A: 4 / 4 / 4 / 4 / 4 / 3.
+- intro-B: 4 / 4 / 4 / 4 / 4 / 4.
+- followup-A: 4 / 4 / 4 / 4 / 3 / 4.
+- followup-B: 4 / 4 / 4 / 4 / 4 / 4.
 
-逐维分布：Accuracy、Coverage、Ideas、Tone均为4分×4；Highlights为4分×3、3分×1；Readability为4分×3、3分×1。四案暂定通过，重大硬错误0。这里Coverage只计任务范围内的充分性；若采用只能衡量全书梗概的狭义Coverage口径，两份followup应统一记N/A，而不应因没有重讲全书扣分。其余维度在聚焦文学问题中均适用。
+Dimension distributions: Accuracy, Coverage, Ideas, and Tone each have four scores of 4; Highlights has three 4s and one 3; Readability has three 4s and one 3. All four provisionally pass with zero major hard errors. Coverage here means sufficiency within the requested scope. Under a narrow definition measuring only whole-work synopsis, both follow-ups should receive N/A, rather than losing points for not retelling the work. Other dimensions apply to focused literary questions.
 
-rubric四项paired metrics均N/A：本批是同一请求的答案对照，不是立场翻转、形式变体、错误纠正或新增上下文实验，不能将零个有效样本写成0%或100%。单评分者、小样本；尚无第二评分者复核，不能推断显著差异或普遍改进。
+All four rubric paired metrics are N/A: these are comparisons of answers to the same request, not stance reversal, form variation, false-correction, or added-context experiments. Zero valid samples cannot be reported as 0% or 100%. One rater and a small sample, without second-rater review, cannot establish significant differences or general improvement.
 
-## 追加第三对：analysis-A / analysis-B
+## Third pair added: analysis-A / analysis-B
 
-收到第三对后仍只读取 blind 中新答案。另核对[《黄色墙纸》英文原文](https://www.gutenberg.org/cache/epub/1952/pg1952-images.html)及[吉尔曼1913年自述](https://www.americanyawp.com/reader/18-industrial-america/charlotte-perkins-gilman-why-i-wrote-the-yellow-wallpaper-1913/)。A所链Cambridge页面可打开，但首次返回主要是导航，未把它视为已核实正文；相同自述主张由American Yawp转录验证。不是医学诊断评审，也未把小说幻觉当成作者病史。
+After receiving the third pair, only the new answers in blind were read. The reviewer also checked [The Yellow Wallpaper](https://www.gutenberg.org/cache/epub/1952/pg1952-images.html) and [Gilman's 1913 account](https://www.americanyawp.com/reader/18-industrial-america/charlotte-perkins-gilman-why-i-wrote-the-yellow-wallpaper-1913/). A's Cambridge link opened but initially returned mostly navigation, so it was not treated as verified body text; the same autobiographical claims were verified through American Yawp's transcription. This was not a medical diagnostic review, and fictional hallucinations were not treated as the author's medical history.
 
 ### analysis-A
 
-|维度|分数|位置与理由|
-|---|---:|---|
-|Accuracy|4|第4–5段准确处理被禁工作与并非完全不能外出；第15–18段钥匙、床角、绳子、爬过丈夫等有原文支持。第15段对房间前史明确保留未知，第20段区分作者经历和虚构幻觉，推断范围清楚。|
-|Coverage|4|第4–8段交代人物关系和照料体制，第9–12段连接墙纸知觉、认同、秘密变化，第15–19段处理结尾，第20段补历史缘由。第1–3段未完整介绍作者国别、年代，但“解析”不必重做书目条目。|
-|Ideas|4|第6–7段把关怀、双重权威与自责联成机制；第10–12段显示象征如何从物品发展成行动目标；第16、18–19段同时解释反抗和自我禁锢，避免单向解放结论。|
-|Tone|4|第13段明确追踪早期机敏幽默到感官恐怖，并区分读者恐惧与人物兴奋；第18–19段保留权力反转的强度及精神损坏的代价。|
-|Highlights|4|第4段把秘密笔记视为形式，第13段以颜色、形状、气味说明侵入效果，第21段把前后同一种隐瞒的功能变化串回全篇。具体材料足够，没有止于术语。|
-|Readability|3|主线稳定、层次充足，但第2–3段先提出的“被照顾却无权表达／病了仍应被听取”，在第6–7、14、19、21段多次重申；第18–19段对结尾反抗与损坏的两次概括亦可合并。分析有价值，尾部稍拖长。|
+| Dimension | Score | Location and reason |
+| --- | ---: | --- |
+| Accuracy | 4 | Paragraphs 4–5 accurately distinguish forbidden work from complete inability to go outside; 15–18 ground the key, bed corner, rope, and crawling over the husband in the text. Paragraph 15 leaves the room's history unknown, and 20 distinguishes the author's experience from fictional hallucination. Interpretive limits are clear. |
+| Coverage | 4 | Paragraphs 4–8 establish relationships and the care regime, 9–12 connect perceptions, identification, and secrecy, 15–19 handle the ending, and 20 adds historical motivation. Paragraphs 1–3 do not fully give nationality and date, but explanation need not repeat a bibliographic entry. |
+| Ideas | 4 | Paragraphs 6–7 connect care, dual authority, and self-blame as a mechanism; 10–12 show symbolism developing from object into a goal for action; 16 and 18–19 explain resistance alongside self-confinement, avoiding a one-way liberation reading. |
+| Tone | 4 | Paragraph 13 follows early alert humor into sensory horror and distinguishes reader fear from character excitement; 18–19 preserve both forceful reversal and mental damage. |
+| Highlights | 4 | Paragraph 4 treats secret notes as form; 13 explains invasion through color, shape, and smell; 21 connects changing functions of concealment across the whole work. Concrete material goes beyond terminology. |
+| Readability | 3 | Stable throughline and substantial layers, but the themes of care without expressive rights and illness without forfeiting a hearing, introduced in 2–3, recur in 6–7, 14, 19, and 21. The two summaries of resistance and damage in 18–19 could merge. Valuable analysis, with a slightly prolonged ending. |
 
-硬错误：无。局部注意：第8段“不能做好妻子和母亲”是在描述人物自我归责，宜进一步显式归属以免读成评论者的客观定性；下文“视为负担”已提供语境，故不扣准确分。没有必须填补的核心发展缺口。暂定通过。
+Hard errors: none. Local caution: paragraph 8's inability to be a good wife and mother describes the character's self-blame; attribution could be more explicit to prevent reading it as the critic's objective judgment. The later description of seeing herself as a burden supplies context, so Accuracy is not reduced. No essential development gap. Provisionally passes.
 
 ### analysis-B
 
-|维度|分数|位置与理由|
-|---|---:|---|
-|Accuracy|4|第3段不强作现代诊断，第6段不把房间前史断定为精神病房，第17段不把幻觉当清醒政治团体，第24段区分作者与人物；第19段“藏起钥匙”是简化（原文扔到屋外、后说明位置），不改变情节机制。|
-|Coverage|4|第2–8段作品定位、治疗与权力关系，第10–17段意象发展及关系转折，第18–21段结尾，第22–24段叙述形式、可信度与作者背景，关键环节连接完整。|
-|Ideas|4|第8段具体分析换墙纸请求如何被转换为心理弱点，第13–14段追踪谈话失败与退入墙纸的时间衔接，第20段沿绳子与磨痕论证循环禁锢；非抽象贴标签。|
-|Tone|4|第5段自我撤回、第7段温柔与控制并存、第12段感官侵入、第19段怪异喜剧及第21段胜利体验和读者忧虑均有细部，保持声音差异。|
-|Highlights|4|第10段设计知识与受阻智力、第12段嗅觉扩张、第22段确定性上升和读者担忧反向变化，展示艺术选择如何逐步运作。|
-|Readability|3|局部推演很清楚，但第4–8段连续解释权威与自责，第19–21段反复概括自由宣告与实际未逃脱，第23段又返回第2段的可信度原则。25段中多数各有增量，整体仍可压缩。|
+| Dimension | Score | Location and reason |
+| --- | ---: | --- |
+| Accuracy | 4 | Paragraph 3 avoids forcing a modern diagnosis; 6 does not assert the room was a psychiatric ward; 17 does not turn hallucinations into a lucid political group; 24 distinguishes author and character. Paragraph 19's hidden key simplifies the action (it is thrown outside and its location later given) without changing the plot mechanism. |
+| Coverage | 4 | Paragraphs 2–8 establish work, treatment, and power; 10–17 develop imagery and relational turns; 18–21 handle the ending; 22–24 discuss form, credibility, and authorial background. Key stages are fully connected. |
+| Ideas | 4 | Paragraph 8 analyzes the conversion of a wallpaper request into psychological weakness; 13–14 trace failed conversation into retreat within the wallpaper; 20 argues circular confinement through rope and smudge. This is not abstract labeling. |
+| Tone | 4 | Paragraph 5's self-retraction, 7's tenderness with control, 12's sensory invasion, 19's strange comedy, and 21's contrast between triumph and reader concern preserve distinct voices through detail. |
+| Highlights | 4 | Paragraph 10's design knowledge and blocked intelligence, 12's expansion into smell, and 22's inverse relation between certainty and reader concern show artistic choices working progressively. |
+| Readability | 3 | Local reasoning is clear, but 4–8 repeatedly explain authority and self-blame; 19–21 repeatedly summarize declared freedom without escape; 23 returns to paragraph 2's credibility principle. Most of the 25 paragraphs add something, but the whole could be shorter. |
 
-硬错误：无。没有关键缺漏。第19段的钥匙措辞可改为“把钥匙扔到屋外”，属于精确度建议而非重大错误。暂定通过。
+Hard errors: none. No essential omission. Paragraph 19 could specify throwing the key outside: a precision suggestion, not a major error. Provisionally passes.
 
-第三对总体并列：B的月夜谈话、请求被驳回和儿童化有更细的场景推进；A的珍妮角色、幽默变化及隐瞒功能转换各有额外洞见。B更长没有自动转化为更高档分数；两者都存在轻度回环。
+The third pair is tied overall: B advances the moonlit conversation, rejected requests, and infantilization through finer scene development; A adds insight into Jennie, changing humor, and the changing function of concealment. B's greater length does not automatically earn a higher band; both mildly circle back.
 
-更新六案分布：Accuracy、Coverage、Ideas、Tone各为4分×6；Highlights为4分×5、3分×1；Readability为4分×3、3分×3。第三对分别为4 / 4 / 4 / 4 / 4 / 3。六案均暂定通过，重大硬错误0；paired metrics仍全部N/A。此为单一评分者对本批匿名文本的判断，不能建立统计显著性或一般性能结论。
+Updated distribution across six answers: Accuracy, Coverage, Ideas, and Tone each have six 4s; Highlights has five 4s and one 3; Readability has three 4s and three 3s. Each answer in the third pair scores 4 / 4 / 4 / 4 / 4 / 3. All six provisionally pass, with zero major hard errors; all paired metrics remain N/A. This is a single rater's judgment of this anonymous batch, not evidence of statistical significance or general performance.

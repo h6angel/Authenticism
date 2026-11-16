@@ -1,11 +1,13 @@
-因为格里高尔已经习惯把“我还能不能履行职责”放在“我究竟出了什么事”之前。身体发生了不可思议的变化，他衡量自己的那套尺度却仍旧照常运转。
+> Publication note: English translation of a historical Chinese record; not a new run or review. See [translation provenance](../../translation-note.md).
 
-先纠正一点：他并非完全没有惊讶。开头他也问自己发生了什么，试图重新入睡，还因控制不了身体而焦躁。但思绪很快滑向出差的辛苦、火车时刻和老板的责难。这种转移本身就很有意味：变形无法理解，迟到却是他熟悉的危险，连老板会怎样追究，他都能预演出来。[开篇原文，David Wyllie 英译](https://www.gutenberg.org/cache/epub/5200/pg5200-images.html)
+Gregor has become accustomed to putting "Can I still fulfill my duties?" before "What has happened to me?" His body has undergone an inconceivable change, but the standards by which he measures himself continue to function as usual.
 
-而且，他担心上班并不意味着热爱工作。他明明厌恶这份职业，甚至幻想辞职、当面痛斥老板；只是父母欠着老板的债，他估计还要工作五六年才能还清。于是，每次想到摆脱，最后都绕回同一个要求：眼下先起来，赶车去。迟到在他心里牵动着收入、债务和一家人的生活，远远超过一次考勤失误。
+One qualification first: he is not entirely unsurprised. At the beginning he wonders what has happened, tries to fall asleep again, and becomes agitated by his inability to control his body. But his thoughts quickly drift toward exhausting business travel, train schedules, and his employer's reproaches. That shift is meaningful in itself: the transformation is incomprehensible, while lateness is a familiar danger, one for which he can even rehearse his employer's response. [Opening text, David Wyllie's English translation](https://www.gutenberg.org/cache/epub/5200/pg5200-images.html)
 
-更难受的是，他已经把公司的怀疑带进了自己的判断。五年没有请过病假，此刻竟还觉得报病可能显得可疑；想到保险医生会把人判成懒汉，他甚至反问这种判断是否完全没有道理。人都成了这样，他仍先替审查自己的人寻找理由。随后主任亲自登门，又使这种恐惧有了现实依据。
+Nor does worrying about work mean that he loves his job. He openly detests it, even imagining resigning and denouncing his employer to his face; but his parents owe the employer money, and he estimates another five or six years of work before the debt is paid. Every thought of escape therefore circles back to the same demand: first get up and catch the train. Lateness involves income, debt, and his family's livelihood, far more than a single attendance violation.
 
-这里也有一种近乎自我安抚的惯性：只要还能把眼前的问题当成起床、穿衣、赶下一班车，他就还能设想自己回到熟悉的生活中去。可以这样理解他的反应，但不必认定他在有意识地逃避现实。
+More painfully, he has incorporated the company's suspicion into his own judgment. After five years without sick leave, he still thinks that reporting illness might look suspicious; imagining the insurance doctor pronouncing people lazy, he even asks whether that judgment is entirely unjustified. Even in his present state, he first finds reasons to defend those who would scrutinize him. The chief clerk's subsequent personal visit gives that fear a real basis.
 
-卡夫卡把这种心理写出了令人发冷的滑稽感：读者正惊愕于变形，格里高尔却忙着计算班次。**最刺痛人的，是他的身体已经无法工作，他却还不能允许自己停下来。**
+There is also an almost self-soothing inertia here: as long as he can treat the problem as getting up, dressing, and catching the next train, he can still imagine returning to a familiar life. This is a possible interpretation of his response, without requiring us to assume a conscious evasion of reality.
+
+Kafka gives this psychology a chilling comedy: while readers are stunned by the transformation, Gregor busily calculates train departures. **What hurts most is that his body can no longer work, yet he still cannot allow himself to stop.**

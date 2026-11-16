@@ -1,5 +1,9 @@
 # Development and evaluation
 
+## Repository language
+
+All tracked project content uses English. This includes documentation, example prompts, and published evaluation records. The installed skill still follows the language requested by its users. Historical runtime records have English publication translations; see [translation provenance](../evaluations/results/runtime-simplification/translation-note.md). New evaluation runs should use English prompts.
+
 ## Develop locally
 
 Clone the repository, then install your checkout into a separate test project if you want to test changes before publishing:
@@ -57,4 +61,3 @@ For your own task, replace the fixture path with its `research-notes.json`. Scri
 The repository includes four development cases, two synthetic holdout passages, adversarial variants, a scoring rubric, and a research-to-explanation smoke example. Mechanical tests have passed. A [single-run before/after development comparison](../evaluations/results/runtime-simplification/report.md) covers three requests with independent executors and one blinded model reviewer. It found usable outputs under shorter instructions, without consistent quality improvement. Skill-versus-no-skill baselines, repeated runs, human scoring, and whole-novel generalization remain untested; improved literary sensitivity is a design goal, not a demonstrated benchmark result.
 
 See [the evaluation protocol](../evaluations/protocol.md) and [implementation checks](../evaluations/results/implementation-check.md). Translated fixtures are a revised evaluation set; historical smoke checks do not establish performance on the revised set.
-

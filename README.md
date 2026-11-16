@@ -1,97 +1,95 @@
 # Authenticism
 
-**读懂一部小说，也读懂它为什么这样写。**
+**Understand a novel, and understand why it is written that way.**
 
-一个用于小说与短篇的文学解析 Skill。从故事、人物和具体文字出发，解释作品如何产生它独有的情感与意味，也支持围绕一个场景、一句话继续讨论。
+A literary explanation skill for novels and short stories. Starting from plot, characters, and specific passages, it explains how a work creates its distinctive meaning and emotional effect. You can explore a whole work or keep discussing a single scene or sentence.
 
-[看看实际回答](#看看实际回答) · [快速安装](#快速安装) · [第一次使用](#第一次使用)
+[See an example](#see-an-example) · [Quick install](#quick-install) · [First use](#first-use)
 
-## 看看实际回答
+## See an example
 
-**提问**
+**Request**
 
-> 接着聊《变形记》：为什么格里高尔变成虫以后，仍然首先担心上班迟到？请聚焦这个问题，不必重讲全书。
+> Continuing our discussion of The Metamorphosis: why does Gregor still worry first about being late for work after turning into an insect? Focus on this question; there is no need to retell the whole work.
 
-**真实回答节选**（中间有省略，所选段落保留原文）
+**Excerpt from a recorded answer** (translated from the original Chinese; intervening paragraphs omitted)
 
-> 因为对格里高尔来说，**上班已经成了一种先于自我保护的责任反射**：身体出了不可思议的事，他仍先用工作日的规则判断自己。
+> For Gregor, **going to work has become a reflex of responsibility that precedes self-preservation**: something inconceivable has happened to his body, yet he still judges himself by the rules of a working day.
 >
-> 不过，“首先担心迟到”需要稍作细分：他起初也惊疑、试图翻身，还想继续睡，把这件事忘掉。但思绪很快转向出差的疲惫、列车和老板。这个转向说明，工作早已占据了他理解生活的主要位置。
+> Still, "worries first about being late" needs a little qualification. Initially he is bewildered, tries to turn over, and even wants to sleep again and forget the whole thing. But his thoughts quickly turn to exhausting business travel, trains, and his employer. This shift suggests that work has long occupied a central place in how he understands his life.
 
-……
+...
 
-> 卡夫卡把这两种尺度并排放着：读者看到一个人遭遇了生存的巨变，他却还在计算怎样赶上下一班车。这里有荒诞的滑稽，也有令人难受的认真——**他已经无法正常起床，却仍觉得自己有义务按时到岗。** 变形立即改变了他的身体，却没有立即解除他心里那套责任和惩罚的秩序。
+> Kafka places these two scales side by side: the reader sees someone undergoing an immense upheaval in his existence, while Gregor is still calculating how to catch the next train. There is absurd comedy here, but also a painful earnestness: **he can no longer get out of bed normally, yet he still feels obliged to report for work on time.** The transformation immediately changes his body, but it does not immediately release him from the order of responsibility and punishment within him.
 
-[阅读完整回答](evaluations/results/runtime-simplification/runs/after-followup/answer.md) · [查看执行与材料记录](evaluations/results/runtime-simplification/runs/after-followup/execution.json)
+[Read the full translated answer](evaluations/results/runtime-simplification/runs/after-followup/answer.md) · [Execution and source coverage](evaluations/results/runtime-simplification/runs/after-followup/execution.json)
 
-这份回答来自 2026-11-16 的一次开发运行。执行者阅读了 David Wyllie 英译本第一章开篇，未通读全篇或德文原作；确切模型版本未向执行者暴露。问题虽以“接着聊”开头，测试只提供了这一条自足问题，没有先前对话，因此这里只展示聚焦问答的效果。它不是多轮对话测试，也不是 skill 与无 skill 的效果对比。
+This answer comes from a development run on November 16, 2026. The executor read the opening of chapter I in David Wyllie's English translation, not the complete novella or the German original; its exact model deployment was not exposed. Despite the request's conversational wording, the test supplied only this self-contained question, without earlier turns. It illustrates a focused answer, not a multi-turn test or a comparison against using no skill. The English text is an editorial translation, not a new model run.
 
-想看完整作品解析，可以阅读同次开发比较中的[《黄色墙纸》回答](evaluations/results/runtime-simplification/runs/after-analysis/answer.md)（含结尾剧透）。
+For a whole-work explanation, read the [translated answer on The Yellow Wallpaper](evaluations/results/runtime-simplification/runs/after-analysis/answer.md) from the same development comparison (contains ending spoilers).
 
-## 快速安装
+## Quick install
 
-在终端运行，使用社区 [Skills CLI](https://github.com/vercel-labs/skills) 安装到 Codex：
+Install into Codex using the community [Skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
 npx skills add h6angel/Authenticism --skill authenticism -a codex -g
 ```
 
-需要 Node.js、可用的网络，以及仓库访问权限。`-g` 表示用户级安装；只想在当前项目使用时，去掉 `-g`。如果仓库为私有仓库，需要先配置 Git/GitHub 身份验证。
+You need Node.js, network access, and access to the repository. `-g` installs for your user across projects; omit it to install only in the current project. Private repositories require Git/GitHub authentication.
 
-Codex 通常会自动发现已安装的 skill；若没有出现，可重启 Codex。命令安装的是 GitHub 上的版本，本地尚未推送的修改不会包含在内。
+Codex normally discovers installed skills automatically. If it does not appear, restart Codex. This command installs the version on GitHub; local changes that have not been pushed are not included.
 
-## 第一次使用
+## First use
 
-在 Codex 中明确提及 `$authenticism`，给出作品名和你关心的问题即可：
+Mention `$authenticism` in Codex, then name the work and what you want to explore:
 
 ```text
-$authenticism 详细解析吉尔曼的《黄色墙纸》，包括故事、人物关系、
-写作方式和结尾。可以剧透。
+$authenticism Explain Charlotte Perkins Gilman's The Yellow Wallpaper in detail,
+including the story, relationships, writing, and ending. Spoilers are welcome.
 ```
 
-也可以从不同的阅读需要出发：
-
-| 想做什么 | 可以这样问 |
+| What you want | Example request |
 | --- | --- |
-| 阅读前了解作品 | `$authenticism 介绍《麦琪的礼物》，不要透露结尾反转。` |
-| 细读一个场景 | `$authenticism 《黄色墙纸》中，月夜里夫妻的谈话为什么是一个转折？` |
-| 讨论另一种理解 | `$authenticism 我觉得《黄色墙纸》的结尾也有解放感，这种读法有什么依据和局限？` |
-| 保存解析 | `$authenticism 解析《变形记》，并保存为 Markdown 文件。` |
+| An introduction before reading | `$authenticism Introduce The Gift of the Magi without revealing the final twist.` |
+| A closer look at one scene | `$authenticism Why is the moonlit conversation between the couple a turning point in The Yellow Wallpaper?` |
+| Discussion of another reading | `$authenticism I find a sense of liberation in the ending of The Yellow Wallpaper. What supports that reading, and what are its limits?` |
+| An explanation saved to a file | `$authenticism Explain The Metamorphosis and save the explanation as Markdown.` |
 
-不必先上传原文；它会使用当前环境提供的搜索和阅读工具寻找材料。若你关注某个译本或特定措辞，提供版本或段落会更有帮助。回答跟随你的语言和剧透要求；未特别指定时，作品介绍与解析默认展开全书脉络，并在开头提示剧透。
+No source upload is required: the skill uses the search and reading tools available in your environment. If you care about a particular translation or wording, supplying the edition or passage helps. Answers follow your language and spoiler preferences. Unless you specify otherwise, introductions and explanations develop the whole work and flag spoilers at the start.
 
-## 它怎样读作品
+## How it reads
 
-- **把故事和写法连起来。** 说明人物经历了什么，也解释叙述视角、语言、节奏和细节怎样影响阅读感受。
-- **让解释回到文本。** 从具体情节与措辞展开判断，区分原作、译文、改编和评论；材料不足时说明依据，不虚构引文。
-- **保留作品自己的语气。** 不把每部作品都讲成创伤、成长或救赎，也不预先把温柔解释成隐藏的恶意。
-- **围绕你的问题继续讨论。** 可以介绍整部作品，也可以聚焦局部、检视另一种读法；普通问答不要求生成研究档案，单独导出文章也不要求附带整套记录。
+- **Connect story and writing.** Explain what characters experience and how perspective, language, pacing, and details shape the reading experience.
+- **Bring interpretation back to the text.** Ground judgments in events and wording; distinguish originals, translations, adaptations, and criticism. State material limitations rather than inventing quotations.
+- **Preserve each work's tone.** Avoid making every story about trauma, growth, or redemption, or assuming that tenderness conceals cruelty.
+- **Follow your question.** Explore a whole work, focus on a passage, or examine a different reading. Ordinary chat does not require a research archive; exporting an essay alone does not require one either.
 
-## 使用条件与边界
+## Requirements and limits
 
-目前主要面向 Codex，阅读框架聚焦小说和短篇；其他代理平台的兼容性未在这里作验证承诺。
+The skill currently targets Codex, with a reading framework focused on novels and short stories. Compatibility with other agent platforms is not established here.
 
-Skill 提供方法与指令，模型、搜索和页面阅读能力由运行环境提供。无法联网或取得原文时，回答应说明限制，不把二手材料包装成全文细读，也不把未读原作的译文措辞归给原作者。可选的研究记录校验脚本需要 Python 3.10+；日常使用不依赖 Python。
+The skill supplies methods and instructions; your environment supplies the model, search, and page-reading tools. When browsing or primary text is unavailable, it should explain the limitation rather than present secondary research as a full close reading or attribute translated wording to an unread original. Optional research-record checks require Python 3.10+; ordinary use does not require Python.
 
-现有示例展示实际输出，但尚不能证明它稳定优于普通提问。当前只有有限的开发检查和单次前后版本比较，没有完成 skill 对无 skill 的基线、重复运行或人工评分。详见[开发与评估说明](docs/development.md#evaluation-status)。
+The examples show recorded output, but do not establish consistent improvement over ordinary prompting. Current evidence consists of limited development checks and a single-run before/after instruction comparison, without skill-versus-no-skill baselines, repeated runs, or human scoring. See [development and evaluation](docs/development.md#evaluation-status).
 
-## 更新与卸载
+## Update or uninstall
 
-用户级安装：
+For a user-level installation:
 
 ```bash
 npx skills update authenticism -g
 npx skills remove authenticism -a codex -g
 ```
 
-项目级安装使用 `npx skills update authenticism -p`，卸载时去掉 `-g`。更多选项见 [Skills CLI 文档](https://github.com/vercel-labs/skills/blob/main/docs/commands.md)。
+For a project installation, use `npx skills update authenticism -p` and omit `-g` from the remove command. See the [Skills CLI documentation](https://github.com/vercel-labs/skills/blob/main/docs/commands.md) for more options.
 
-## 这段解析没有说服你？
+## Did an explanation fail to convince you?
 
-欢迎通过 [GitHub Issues](https://github.com/h6angel/Authenticism/issues) 反馈：提供作品与作者、原始提问、回答片段、使用的模型环境，以及你认为没有贴合文本的地方。情节有误、解释缺少依据、忽略反例或没有保留作品语气，都值得讨论。
+Share feedback through [GitHub Issues](https://github.com/h6angel/Authenticism/issues). Include the work and author, your request, the relevant answer excerpt, your model environment, and where you think the interpretation loses touch with the text. Plot errors, unsupported claims, overlooked counterexamples, and a mismatch with the work's tone are all useful to discuss.
 
-## 开发与评估
+## Development and evaluation
 
-[开发、目录与校验命令](docs/development.md) · [评估协议](evaluations/protocol.md) · [前后版本比较报告](evaluations/results/runtime-simplification/report.md)
+[Development, layout, and checks](docs/development.md) · [Evaluation protocol](evaluations/protocol.md) · [Before/after comparison](evaluations/results/runtime-simplification/report.md)
 
-`SKILL.md` 是技能入口；`references/` 提供阅读方法，`agents/` 提供 Codex 界面元数据。`evaluations/results/` 保存已记录的开发评估证据，不是使用 skill 必须读取的资料，也不是日常回答的保存目录。当前没有单独的精简发布包，安装工具可能把这些开发资料一起带入安装目录。
+`SKILL.md` is the entry point, `references/` contains reading guidance, and `agents/` contains Codex interface metadata. `evaluations/results/` holds selected development evidence; it is not required reading during normal use or a destination for everyday answers. New trial runs belong in the Git-ignored `evaluations/local-runs/` directory. There is currently no separate minimal release archive, so installation tools may include development materials.

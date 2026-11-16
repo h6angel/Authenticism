@@ -9,7 +9,7 @@ description: Research and explain novels and short stories, connecting plot, cha
 
 Users usually provide only a title. Find and read relevant sources, develop an understanding of the work, and deliver an accessible, substantial Markdown explanation in the user's requested language, or the language of their request.
 
-A request to introduce or explain a work (including “介绍” and “解析”) defaults to a fully developed whole-work reading guide: explain how the story develops, relationships change, and narrative and language create its distinctive meaning and experience. Briefly flag spoilers at the start, then discuss important events and the ending. Follow the user's explicit scope, length, and spoiler preferences.
+A request to introduce or explain a work defaults to a fully developed whole-work reading guide: explain how the story develops, relationships change, and narrative and language create its distinctive meaning and experience. Briefly flag spoilers at the start, then discuss important events and the ending. Follow the user's explicit scope, length, and spoiler preferences.
 
 The current scope is novels and short stories. Do not force poetry or drama into a plot-and-character framework. Simple bibliographic questions do not require the full workflow.
 

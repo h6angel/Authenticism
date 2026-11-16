@@ -1,23 +1,25 @@
-《麦琪的礼物》是美国作家欧·亨利的短篇小说，英文题名为 *The Gift of the Magi*，收入《四百万》。它写一对贫穷的年轻夫妻怎样为彼此准备圣诞礼物，篇幅很短，却把爱情里的慷慨、忐忑和一点令人心酸的滑稽交织在一起。下面会谈到完整情节和结尾。
+> Publication note: English translation of a historical Chinese record; not a new run or review. See [translation provenance](../../translation-note.md).
 
-故事开始时，德拉只有一美元八十七美分，第二天就是圣诞节。她已经省了好几个月，仍买不起一件在自己看来配得上丈夫吉姆的礼物。这个数字之所以重要，在于它把她的愿望和现实之间的距离摆得非常具体：她并非忘记准备，也并非不懂节俭，而是钱实在太少。
+The Gift of the Magi is a short story by the American writer O. Henry, collected in The Four Million. It follows a poor young couple preparing Christmas gifts for each other, weaving generosity, anxiety, and a touch of poignant comedy into a very short space. The following discusses the complete plot and ending.
 
-夫妻俩有两件引以为傲的珍宝：吉姆祖传的金表，以及德拉长过膝头的秀发。德拉对着镜子放下头发，终于想到可以把它卖掉。她行动很快，但临走前，眼泪仍落在旧地毯上。这一小停顿让人看见，舍弃秀发并不轻松；她是带着不舍作出选择的。
+At the beginning, Della has only one dollar and eighty-seven cents, and Christmas is tomorrow. She has been saving for months, yet still cannot afford a gift she considers worthy of her husband, Jim. The figure matters because it gives the distance between her wish and her circumstances a precise shape: she has neither forgotten to prepare nor failed to be thrifty. There is simply too little money.
 
-卖发得来的二十美元，使她买到一条二十一美元的白金表链。她喜欢它朴素而有价值，觉得这正像吉姆。这个选择让礼物超出了“贵重”的意义：吉姆平时用旧皮带代替表链，有时不好意思在人前拿出金表；德拉想到的是，让丈夫可以坦然使用他珍爱的东西。她的体贴来自日常相处中的了解。
+The couple have two treasures of which they are proud: Jim's inherited gold watch and Della's hair, which falls below her knees. Della lets down her hair before the mirror and finally realizes she can sell it. She acts quickly, but before leaving, her tears still fall onto the old carpet. This brief pause shows that giving up her hair is not easy; she chooses with a sense of loss.
 
-回家以后，兴奋转为担忧。德拉整理短发，等待吉姆回来，盼望丈夫仍觉得她漂亮。她愿意为他牺牲，却没有因此变成毫无不安的人。吉姆进门后一直盯着她，神情让她无法理解。她急忙解释头发会再长，追问失去头发的自己是否仍被爱着。直到吉姆拥抱她，并说明发型不会减少他的爱，紧张才开始缓解。
+The twenty dollars from selling it enables her to buy a twenty-one-dollar platinum watch chain. She admires its simple worth, which seems to her like Jim himself. The choice gives the gift a meaning beyond expense: Jim has been using an old leather strap instead of a chain and is sometimes embarrassed to take out his watch in public. Della wants him to use his treasure with confidence. Her thoughtfulness comes from knowing him in daily life.
 
-接着，吉姆拿出一套德拉渴望已久的发梳。她终于得到心爱的礼物，却已经没有适合戴它的长发，于是先欢呼，又哭起来。她把梳子抱在胸前，重新提起头发长得快，随后兴冲冲地拿出表链，请吉姆取出金表来试。
+Back home, excitement turns to worry. Della arranges her short hair and waits for Jim, hoping he will still find her beautiful. Her willingness to sacrifice does not remove her insecurity. When Jim enters, he keeps staring at her with an expression she cannot understand. She hastily explains that her hair will grow again and asks whether she is still loved without it. The tension begins to ease only when Jim embraces her and says that her hairstyle cannot diminish his love.
 
-这才揭开最后一个秘密：**吉姆卖掉了金表，给她买了发梳。** 两个人各自卖掉最珍贵的东西，为对方买来装点那件珍宝的礼物。表链和梳子暂时都用不上了。[小说原文](https://www.gutenberg.org/files/2776/2776-h/2776-h.htm)
+Then Jim presents a set of combs Della has long desired. She finally owns her cherished gift, but no longer has the long hair to wear it with; delight turns to tears. Holding the combs to her chest, she returns to the thought that her hair grows quickly, then eagerly produces the chain and asks Jim to bring out his watch.
 
-这个结尾的力量，来自两条对称的行动线，却也来自信息的不对称。读者一直跟随德拉，知道她怎样卖发、选礼物、等待丈夫；吉姆在外面做了什么，则被藏到最后。因此，他起初难以理解的注视，在揭晓后突然获得了另一层意思：他带回的礼物，已经失去了眼前的用途。欧·亨利让读者先和德拉一起焦虑，再回头重新理解吉姆。
+Only now is the final secret revealed: **Jim has sold the gold watch to buy her the combs.** Each has sold their most precious possession to buy an ornament for the other's treasure. For the moment, neither the chain nor the combs can be used. [Story text](https://www.gutenberg.org/files/2776/2776-h/2776-h.htm)
 
-不过，两人的爱情也有一个细小的错位：他们都知道对方珍惜什么，却不知道对方正在为自己舍弃什么。正是这种“彼此了解，又彼此不知”的状态，造成了令人莞尔又惋惜的结果。两份礼物失去了预想中的实用价值，却证明了双方付出的心意是相称的。这个发现并不能把金表变回来，也不能立刻让秀发复原，所以温暖之中仍留着损失的重量。
+The ending draws its strength from two symmetrical lines of action, but also from an asymmetry of information. Readers follow Della, knowing how she sells her hair, chooses a gift, and waits for her husband; Jim's activities remain hidden until the end. His initially puzzling stare suddenly acquires another meaning: the gift he has brought home has already lost its immediate use. O. Henry makes readers share Della's anxiety before looking back and understanding Jim anew.
 
-小说的叙述口吻也很值得留意。开头一再数钱，语句短促，贴近德拉的焦灼；随后，叙述者又打趣那间破旧公寓，仿佛连门口姓名牌上的长名字都因收入减少而想缩短。写到夫妻珍爱的头发与金表，他却搬出拥有无数财宝的示巴女王和所罗门来作比较，让小人物的骄傲显得夸张而可爱。叙述者时常插话、与读者说笑，既让贫穷的处境保持真实，也使故事不至于陷入一味的悲苦。
+There is also a small mismatch within their love: each knows what the other treasures, but neither knows what the other is giving up for them. This condition of knowing and not knowing each other produces the amusing yet regrettable outcome. The gifts lose their intended practical value but show that their generosity is matched. This discovery cannot restore the watch or immediately regrow the hair, so warmth retains the weight of loss.
 
-“麦琪”则是理解题目的关键。故事结尾提到，那些向马槽中的圣婴献礼的智者开创了圣诞赠礼的传统。叙述者先把夫妻俩说成做了不明智牺牲的傻孩子，紧接着又称他们是最智慧的赠礼者。这种转折改变了衡量礼物的尺度：若只计算物品能否使用，他们的行动确实令人哭笑不得；若看他们是否真正把对方放在心上，他们又懂得了赠礼最深的意义。
+The narrative voice deserves attention too. Repeated counting and short sentences at the beginning stay close to Della's agitation; later the narrator jokes about the shabby apartment, as if even the long name on the doorplate wanted to shrink with the reduced income. When describing the beloved hair and watch, he invokes the fabulously wealthy Queen of Sheba and Solomon, making ordinary people's pride exaggerated and endearing. Frequent interjections and jokes with the reader keep poverty real without allowing the story to sink into unrelieved misery.
 
-而小说没有让贫困就此消失。吉姆最后只是笑着请德拉把晚餐做好，生活重新落回小小的屋子里。这个收束很动人：他们没有获得财富，也没有消除所有遗憾，却在一次失败的礼物交换中，更清楚地看见了彼此的爱。
+The Magi are key to the title. At the end, the narrator recalls the wise men who brought gifts to the infant in the manger and began the Christmas gift-giving tradition. He first calls the couple foolish children who made unwise sacrifices, then declares them the wisest of gift-givers. This reversal changes the measure of a gift: calculated only by whether the objects can be used, their actions are painfully comical; judged by whether they truly care for each other, they understand the deepest meaning of giving.
+
+Poverty does not disappear. Jim merely smiles and asks Della to prepare supper, returning life to their little room. The close is moving because they have gained no wealth and removed none of their regrets, yet in a failed exchange of gifts they have seen each other's love more clearly.

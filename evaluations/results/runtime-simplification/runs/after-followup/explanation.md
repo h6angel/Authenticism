@@ -1,9 +1,11 @@
-因为对格里高尔来说，**上班已经成了一种先于自我保护的责任反射**：身体出了不可思议的事，他仍先用工作日的规则判断自己。
+> Publication note: English translation of a historical Chinese record; not a new run or review. See [translation provenance](../../translation-note.md).
 
-不过，“首先担心迟到”需要稍作细分：他起初也惊疑、试图翻身，还想继续睡，把这件事忘掉。但思绪很快转向出差的疲惫、列车和老板。这个转向说明，工作早已占据了他理解生活的主要位置。
+For Gregor, **going to work has become a reflex of responsibility that precedes self-preservation**: something inconceivable has happened to his body, yet he still judges himself by the rules of a working day.
 
-他其实厌恶这份工作，甚至想当面向老板辞职。拦住他的，是父母欠老板的钱：他估计还得干五六年才能偿清。因此，迟到对他意味着失去收入、让家庭陷入困境；他的焦虑里既有受压迫的恐惧，也有对家人的牵挂。[开篇文本，David Wyllie 英译](https://www.gutenberg.org/cache/epub/5200/pg5200-images.html)
+Still, "worries first about being late" needs a little qualification. Initially he is bewildered, tries to turn over, and even wants to sleep again and forget the whole thing. But his thoughts quickly turn to exhausting business travel, trains, and his employer. This shift suggests that work has long occupied a central place in how he understands his life.
 
-更深的一层是，他已经会替公司审查自己。他五年没请过病假，却仍担心请假会被当成偷懒；公司来人追问，随后也印证了这种恐惧。他甚至把声音的异变解释成职业带来的感冒。可以把这理解为：承认自己彻底变了太困难，而赶车、解释、补救，都是他熟悉的应对办法。
+He actually hates this job and even wants to resign to his employer's face. What stops him is his parents' debt to the employer: he estimates it will take another five or six years to repay. Being late therefore means risking his income and putting his family in difficulty; his anxiety includes both fear of oppression and concern for his family. [Opening text, David Wyllie's English translation](https://www.gutenberg.org/cache/epub/5200/pg5200-images.html)
 
-卡夫卡把这两种尺度并排放着：读者看到一个人遭遇了生存的巨变，他却还在计算怎样赶上下一班车。这里有荒诞的滑稽，也有令人难受的认真——**他已经无法正常起床，却仍觉得自己有义务按时到岗。** 变形立即改变了他的身体，却没有立即解除他心里那套责任和惩罚的秩序。
+At a deeper level, he has learned to scrutinize himself on the company's behalf. He has not taken a sick day in five years, yet still worries that calling in sick will be treated as laziness; the company's representative subsequently arrives to question him, confirming that fear. He even explains the change in his voice as a cold brought on by his occupation. One way to understand this is that acknowledging a complete transformation is too difficult, while catching a train, explaining himself, and making amends are familiar responses.
+
+Kafka places these two scales side by side: the reader sees someone undergoing an immense upheaval in his existence, while Gregor is still calculating how to catch the next train. There is absurd comedy here, but also a painful earnestness: **he can no longer get out of bed normally, yet he still feels obliged to report for work on time.** The transformation immediately changes his body, but it does not immediately release him from the order of responsibility and punishment within him.

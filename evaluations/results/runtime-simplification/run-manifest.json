@@ -9,9 +9,9 @@
   "tools": "Same available tool set; actual usage in per-run execution.json",
   "executor_context": "Fresh fork_turns=none agent per run; no proposed fixes or expectations supplied",
   "requests": {
-    "intro": "介绍一下《麦琪的礼物》这篇小说。",
-    "analysis": "解析一下《黄色墙纸》这篇小说。",
-    "followup": "接着聊《变形记》：为什么格里高尔变成虫以后，仍然首先担心上班迟到？请聚焦这个问题，不必重讲全书。"
+    "intro": "Introduce The Gift of the Magi.",
+    "analysis": "Explain The Yellow Wallpaper.",
+    "followup": "Continuing our discussion of The Metamorphosis: why does Gregor still worry first about being late for work after turning into an insect? Focus on this question; there is no need to retell the whole work."
   },
   "limitations": [
     "Single repetition, no human scores or statistical inference",

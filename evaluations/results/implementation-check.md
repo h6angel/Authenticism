@@ -60,7 +60,7 @@ Validation: diff whitespace check and UTF-8 skill quick validation passed. All 1
 
 Status: not_run. The user supplied a prior output, but no fresh independent session or matched comparison has been executed. No literary-quality improvement is claimed from tooling checks or from examples authored while revising the instructions.
 
-Use the unaugmented request `$authenticism 解析一下素食者这本书` in a fresh session. Compare the parent revision and revised skill under matched model, tools, output budget, and browsing conditions; preserve actual source coverage and source changes. Keep the earlier user output as a diagnostic example rather than a controlled baseline. Following protocol.md, save request, sources, research notes, explanation, and review.
+Use the unaugmented request `$authenticism Explain The Vegetarian` in a fresh session. Compare the parent revision and revised skill under matched model, tools, output budget, and browsing conditions; preserve actual source coverage and source changes. Keep the earlier user output as a diagnostic example rather than a controlled baseline. Following protocol.md, save request, sources, research notes, explanation, and review.
 
 Inspect whether consequential transitions are explained rather than merely named; whether the artist and sister sections develop interactions and changing relationships; whether plant imagery is traced through changes rather than assigned one meaning; and whether additional prose adds supported understanding rather than repeated conclusions. Also check continuity, distinct section contributions, and unsupported specificity. Diagnose remaining weaknesses as retrieval, planning, or drafting gaps before adding further rules. Longer output alone does not pass this regression.
 
@@ -71,3 +71,7 @@ Made research archives conditional on requested records, evaluation, or quotatio
 Executed six fresh before/after development runs for introduction, complete explanation, and focused follow-up, plus a plain article-export smoke check. One independent blinded model reviewer provisionally passed all six, with slight before-version advantages in two pairs and a tie in the third. No consistent quality improvement is established. Capture wording contaminated record behavior in one run; the separate plain export created only its article. See [report, outputs, conditions and limitations](runtime-simplification/report.md).
 
 Skill validation, relative documentation links, diff whitespace, note fixture validation, and one exact quotation fixture passed. All three generated note files also pass structural validation; their quote checks register zero quotations and establish no literary correctness. Existing unit tests were not rerun because scripts and schema were unchanged. No installation, commit, or publish operation was performed.
+
+## English publication note
+
+The example request above is an English translation of the historical Chinese request, not a new execution. Runtime comparison artifacts also have translated publication copies; see runtime-simplification/translation-note.md for provenance.

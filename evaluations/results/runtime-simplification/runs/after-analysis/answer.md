@@ -1,49 +1,51 @@
-以下涉及完整情节和结尾。
+> Publication note: English translation of a historical Chinese record; not a new run or review. See [translation provenance](../../translation-note.md).
 
-《黄色墙纸》是美国作家夏洛特·珀金斯·吉尔曼发表于1892年的短篇小说。它最令人不安的地方，是让我们跟随一个女人逐渐丧失与现实的联系，同时看清：她早先那些清楚、合理的感受，为什么始终得不到承认。阅读时可以抓住一个变化：**她最初想离开房间，最后却在房间里宣布自己获得了自由。**这两种“自由”之间的距离，正是小说的悲剧所在。[作品原文](https://www.gutenberg.org/cache/epub/1952/pg1952-images.html)
+The following discusses the complete plot and ending.
 
-故事通过女主人公偷偷写下的笔记展开。她和身为医生的丈夫约翰租下一座偏僻的大宅，准备在那里度过夏天。她精神低落、容易疲倦，家里还有一个由别人照顾的婴儿；这些细节构成了她在生育后的生活处境，但小说没有提供足以确定现代医学诊断的材料。约翰认为她只是暂时的神经抑郁，要求她休息、服药，禁止工作，尤其反对写作。她则觉得，适合自己的工作、交往和生活变化可能有帮助。
+The Yellow Wallpaper is a short story published in 1892 by the American writer Charlotte Perkins Gilman. Most unsettlingly, it lets us follow a woman's growing loss of contact with reality while seeing why her earlier clear, reasonable feelings never gain recognition. One change offers a way into the story: **she initially wants to leave the room, but finally announces that she has gained freedom within it.** The distance between these two kinds of freedom is the tragedy. [Story text](https://www.gutenberg.org/cache/epub/1952/pg1952-images.html)
 
-双方的分歧从开头就很明确，然而他们没有平等讨论的条件。约翰同时拥有丈夫和医生的身份，女主人公的哥哥也是医生，并赞同他。她的亲身感受，在这一整套权威面前很难成为有效的证据。她反复问自己还能怎么办，语气里有不服，也有迅速撤回不服的习惯。
+The story unfolds through notes the protagonist writes in secret. She and her physician husband, John, rent a secluded mansion for the summer. She is low in spirits and easily exhausted, with an infant cared for by someone else. These details establish her circumstances after childbirth, but do not provide enough evidence for a definite modern medical diagnosis. John believes she has only temporary nervous depression and orders rest and medication, forbidding work, especially writing. She believes suitable work, company, and a change of life might help.
 
-这种撤回，使小说的声音格外细密。她刚怀疑约翰可能妨碍自己康复，随即便强调他的爱与周到；刚写到自己受苦，又责备自己不能成为好妻子。读者能够感到她的痛苦，但她并没有从一开始就站在一个清楚的批判位置上。她依恋丈夫，也借用丈夫的解释来怀疑自己。压迫因此进入了她对自己的判断。
+Their disagreement is clear from the beginning, but they cannot discuss it equally. John holds authority as both husband and doctor; her brother is also a doctor and agrees with him. Her own experience scarcely counts as evidence against this combined authority. She repeatedly asks what else she can do, with a voice that both resists and quickly withdraws resistance.
 
-她本来喜欢楼下有玫瑰、可以通向门廊的房间，约翰却选定了顶楼的大房间，理由是空气和阳光充足。她判断这里原先是育儿室、游戏室：窗户有栏杆，墙上有环状物，床沉重而难以移动，地板和墙面有破坏的痕迹。这些细节逐渐使休养空间显出禁闭空间的意味。不过，文本没有证明这里过去就是精神病房；那种可怕的联想，来自房间的物质特征与她后来行为之间的呼应。
+This withdrawal makes her voice particularly intricate. After suspecting John may hinder her recovery, she immediately stresses his love and care; after describing suffering, she reproaches herself for failing as a wife. Readers feel her pain, yet she does not begin from a clearly critical position. She depends on her husband and uses his explanations to doubt herself. Oppression thus enters her self-judgment.
 
-育儿室还有另一重作用：一个成年女人，被安置在儿童的空间里，丈夫又用哄孩子的方式对待她。他会抱她、给她读书、叫她小姑娘，却不能认真听她表达自己的需要。这里的温柔并非全是伪装，但温柔可以与控制同时存在。约翰不必怀有伤害她的意图，他确信自己知道什么对她最好，就足以使她失去选择。
+She prefers a downstairs room with roses and access to the porch, but John chooses the large upper room for its air and light. She thinks it was a nursery and playroom: barred windows, rings on the walls, an immovable heavy bed, and damage to floor and walls. These details gradually give a place of recovery the feeling of confinement. The text does not prove it was once a psychiatric ward; that disturbing association arises from echoes between its physical features and her later behavior.
 
-她要求更换墙纸时，这一点表现得很清楚。约翰起初考虑过，后来认为让步会纵容她的幻想：换了墙纸，她接着又会反感床、窗栏和楼梯口的门。他于是把一个具体、可以解决的不适，转换成她必须克服的心理弱点。她提出换房，他又用亲昵的拥抱化解了请求。争论没有真正解决，她却已经觉得，再坚持就是让丈夫为自己的任性受累。
+The nursery has another function: an adult woman occupies a child's space, and her husband treats her as a child. He holds her, reads to her, and calls her a little girl, yet cannot seriously hear her needs. The tenderness is not necessarily all pretense, but tenderness and control can coexist. John need not intend harm: certainty that he knows what is best is sufficient to deprive her of choice.
 
-于是，墙纸占据了越来越多的篇幅，也占据了她越来越多的生活。
+Her request to replace the wallpaper makes this clear. John initially considers it, then decides concession would encourage her fancies: after the wallpaper she would object to the bed, bars, and stairway gate. He converts a concrete, solvable discomfort into a psychological weakness she must overcome. When she asks to change rooms, an affectionate embrace defuses the request. The disagreement remains unresolved, but she already feels that persistence would burden him with her willfulness.
 
-起初，她只是厌恶它肮脏、黯淡而刺眼的黄色，以及毫无秩序的花纹。值得留意的是，她观察花纹时显出相当活跃的审美能力：她试图辨认重复、对称、线条的走向，却不断被打断、被带入死路。写作与交往受到限制之后，她的智力并没有停止运转，而是被迫围绕房间里这个唯一不断刺激她的对象打转。
+The wallpaper consequently occupies more of the writing and more of her life.
 
-接着，她在表层图案后看见了另一层模糊的形状。它逐渐成为一个弯着身子爬行的女人；到了夜晚，表面花纹又像栏杆，那女人就在后面摇晃、挣扎。墙纸的象征意义由此生长出来：**一层看得见的秩序，把另一个生命压在后面。**这与女主人公的处境相互映照——她表面上得到周密照料，内心的活动却越来越没有出口。
+Initially she dislikes its dirty, dull yet glaring yellow and disorderly pattern. Her observations display an active aesthetic intelligence: she tries to identify repetition, symmetry, and the direction of lines, but is interrupted and led into dead ends. Restricting writing and company has not stopped her mind; it forces that mind to circle the room's one continually stimulating object.
 
-不过，墙纸并非一个解释完就可以放下的符号。吉尔曼让它不断变化：它像植物、真菌、眼睛、被扭断的脖子，后来甚至散发出一种仿佛具有颜色的气味。视觉的不安扩展到嗅觉，气味进入她的头发、跟随她出门，房间的边界仿佛也失效了。读者并不是远远观看一个象征，而是逐渐被拖进她那种无法摆脱、无法停止解释的感觉之中。
+Then a vague shape appears behind the surface design. It becomes a stooping, creeping woman; at night the outer pattern resembles bars, with the woman shaking and struggling behind them. The symbolism grows from this process: **a visible order presses another life behind it.** Her circumstances echo the image: meticulous outward care leaves her inner activity with fewer outlets.
 
-小说中段，月夜里的谈话是一个重要转折。她认真告诉约翰，自己在这里没有好转，希望离开。他以医生的身份保证她正在康复，并以肤色、食欲等迹象说明自己的判断。她尝试纠正这些观察，又想进一步区分身体与精神的状况，约翰却严厉地阻止她，把承认精神恶化本身说成危险的幻想，还要求她为了丈夫和孩子相信他。
+But the wallpaper cannot simply be decoded and set aside. Gilman keeps changing it: plants, fungi, eyes, twisted necks, and eventually a smell that seems colored. Visual unease expands into smell, entering her hair and following her outside, as if the room's boundaries have failed. Readers do not view a symbol from a distance; they are drawn into a sensation she cannot escape or stop interpreting.
 
-这场谈话的残酷，在于她越需要帮助，就越难按照对方认可的方式证明这一点。哭泣会使她的论述显得不够理性；反驳医生，又会成为她缺乏自控的表现。谈话结束后，她不再坚持解释，反而躺着思考墙纸两层图案的运动。**与现实中的人沟通失败，和向墙纸内部退去，在这里紧紧衔接。**
+The moonlit conversation midway through the story is a turning point. She seriously tells John she is not improving and wants to leave. He assures her as a doctor that she is recovering, citing complexion and appetite. She tries to correct those observations and distinguish physical from mental health, but he sternly interrupts. He treats acknowledging mental deterioration as itself a dangerous fancy and asks her to trust him for her husband's and child's sake.
 
-此后，关系发生了变化。她不再主要向约翰寻求理解，而是开始瞒着他，怀疑他和妹妹珍妮也在研究墙纸，甚至担心他们抢先发现秘密。珍妮看见衣服上的黄色污迹，给出日常生活的解释，她却把这个解释看成掩饰。她开始拥有一个别人无法进入的知识世界，并从中获得期待、兴奋和目的。
+The cruelty lies in how increasing need makes it harder to prove that need in an acceptable form. Tears make her account seem irrational; contradicting the doctor becomes evidence of insufficient self-control. After the conversation, she stops explaining and lies thinking about the movement of the wallpaper's two layers. **Failure to communicate with real people and withdrawal into the wallpaper are closely linked here.**
 
-这也形成了小说最尖锐的反讽：她变得安静，吃得好些，约翰便为她的改善高兴；但读者知道，她的安静来自隐瞒，她的兴奋来自越来越牢固的幻觉。她先前想被带走，现在却不愿离开，生怕还没解开秘密就失去机会。用“顺从”“安静”判断康复的方式，恰好错过了最严重的变化。
+Her relationships then change. Rather than primarily seeking John's understanding, she conceals things and suspects him and Jennie of studying the wallpaper, even fearing they will discover its secret first. When Jennie gives an ordinary explanation for yellow stains on clothes, she takes that explanation as concealment. She gains an inaccessible world of knowledge that supplies anticipation, excitement, and purpose.
 
-墙纸里的女人随后也发生变化：有时只有一个，有时仿佛有许多个；她看见女人在花园、树下和道路上爬行，还觉得白天被人发现这样爬行十分羞耻。一个人的困境由此获得了更广的意味：她看见的可能是许多无法公开站直、无法公开表达欲望的女人。但这仍然发生在她的失常意识之中，不能把这些形象直接当作作者安排的一支清醒的反抗队伍。
+This creates the sharpest irony: she becomes quiet and eats better, so John celebrates improvement; readers know her quiet comes from concealment and her excitement from increasingly fixed hallucination. Once she wanted to be taken away; now she refuses to leave before solving the secret. Measuring recovery through compliance and quiet misses the gravest change.
 
-最后，她决定撕掉墙纸，帮助那个女人出来。起初，她还区分自己与对方：一个拉，一个摇，仿佛共同劳动。接着，这个区分消失了。她开始把自己说成已经从墙纸里出来的女人。
+The woman in the wallpaper also changes: sometimes one, sometimes seemingly many. She sees women creeping in gardens, under trees, and along roads, feeling shame at being discovered doing so by day. An individual predicament acquires wider implications: perhaps these are many women unable publicly to stand upright or express desire. Yet these images still occur within her disordered consciousness; they cannot simply become an authorial band of lucid political rebels.
 
-结尾尤其不能只按“女性终于反抗成功”来理解。她确实采取了此前没有的主动行动：锁门，藏起钥匙，拒绝服从，让约翰不得不听从她关于钥匙位置的指示。约翰进门后昏倒，原来掌握解释权和行动权的人，变成了挡在她爬行路上的身体；她一次次从他身上爬过去。这个画面带着怪异的喜剧性，也使夫妻间的高低关系发生了猛烈颠倒。
+Finally she decides to tear away the paper and help the woman out. At first she distinguishes herself from the other: one pulls while the other shakes, as if working together. Then the distinction disappears. She begins describing herself as the woman who has emerged.
 
-但她没有走向外面的生活。她说不愿出去，觉得沿着房间爬行很舒服；她还把自己用绳子系住。此前她说绳子可以拴住逃出来的女人，如今被拴住的却是她自己。帮助、占有、保护和禁锢，在她的行动里也开始纠缠。她的肩膀正好贴合墙上那圈磨痕，先前令她困惑的物质痕迹，现在成了她身体活动的路线。逃脱的宣告与循环的动作同时出现：她撕开了墙纸，却仍在房间里绕圈。
+The ending especially resists being read only as successful female rebellion. She does act with unprecedented initiative: locking the door, hiding the key, refusing obedience, and forcing John to follow her directions about its location. When he enters and faints, the person who controlled interpretation and action becomes a body obstructing her path; she repeatedly creeps over him. The image has a strange comedy and violently reverses the couple's hierarchy.
 
-因此，这个结尾同时容纳了反抗的力量与精神崩溃的代价。她终于不再接受丈夫规定的现实，却已经无法在双方共享的现实里为自己争取生活。她的胜利感属于人物当下的体验；读者看见的，则还有她被损坏的处境。把它读成纯粹的解放，会抹去最后这一层令人难受的差异。
+Yet she does not move into an outside life. She says she does not want to go out and finds creeping around the room comfortable; she also ties herself with a rope. Earlier she said the rope could restrain the escaping woman, but now she is restrained. Help, possession, protection, and confinement become entangled in her own actions. Her shoulder fits the wall's worn track: material marks that puzzled her become her bodily route. A declaration of escape coexists with circular motion: she has torn the wallpaper but still circles the room.
 
-从写法看，小说的第一人称笔记至关重要。开头她还能观察、比较、怀疑自己的判断，后来措辞越来越肯定，秘密越来越多，“我发现了”的兴奋不断增强。**她主观上越确信自己理解了一切，读者就越担忧她。**短段落、突然停笔和反复出现的自我修正，让我们先体验到写作被监视的紧张，随后又体验到注意力被墙纸吞没的逼仄。
+The ending therefore holds both the force of resistance and the cost of mental collapse. She finally rejects her husband's prescribed reality but can no longer seek a life within a reality shared with others. Triumph belongs to the character's immediate experience; readers also see her damaged condition. Pure liberation erases that painful difference.
 
-称她为“不可靠叙述者”，也不意味着约翰因此正确。她对墙纸里女人的判断逐渐失实，她关于孤独、写作受阻、请求不被倾听的记录，却使读者能够理解她怎样走到这里。小说要求我们同时保留这两种判断，而不是因为一个人出现幻觉，就取消她先前全部经验的可信度。
+The first-person notes are crucial to the writing. At first she observes, compares, and doubts herself; later her wording becomes more certain, secrets multiply, and the excitement of discovery intensifies. **The more certain she becomes that she understands everything, the more readers worry.** Short paragraphs, abrupt stops, and repeated self-correction first make us feel the tension of monitored writing, then the constriction of attention consumed by wallpaper.
 
-吉尔曼后来在《我为什么写〈黄色墙纸〉》中回忆，自己曾接受休息疗法，被要求限制智力活动、放弃写作，后来重新工作才恢复一些力量。她同时明确说明，墙纸幻觉是小说的加工，自己没有过这种经历。这份自述有助于理解小说对治疗方式的批评，也提醒我们不要把女主人公直接等同于作者。[吉尔曼1913年自述](https://www.americanyawp.com/reader/18-industrial-america/charlotte-perkins-gilman-why-i-wrote-the-yellow-wallpaper-1913/)
+Calling her an unreliable narrator does not make John right. Her judgments about the woman in the paper become false, but her records of loneliness, blocked writing, and unheard requests explain how she arrived there. The story asks us to retain both judgments rather than invalidate all her earlier experience because she hallucinates.
 
-重读时，可以特别留意她怎样描述约翰：起初确信他爱自己，接着觉得难以向他解释，后来害怕他、猜疑他，最后几乎把他当作一个莫名昏倒、妨碍自己通行的人。短短一篇小说，让夫妻间的亲密关系逐渐变成两个无法相通的现实。结尾那一圈圈爬行之所以难忘，正因为读者还记得：她最初提出的愿望，其实只是换一间房、见见亲友，以及写一点东西。
+In Why I Wrote The Yellow Wallpaper, Gilman recalled receiving a rest cure that limited intellectual activity and required abandoning writing; returning to work restored some strength. She also explicitly said the wallpaper hallucinations were fictional and not her experience. This account clarifies the critique of treatment while warning against directly equating protagonist and author. [Gilman's 1913 account](https://www.americanyawp.com/reader/18-industrial-america/charlotte-perkins-gilman-why-i-wrote-the-yellow-wallpaper-1913/)
+
+On rereading, notice how she describes John: first certain he loves her, then unable to explain herself, later afraid and suspicious, and finally almost treating him as someone who inexplicably faints and obstructs her movement. Within a short story, marital intimacy becomes two incompatible realities. The final circling remains unforgettable because readers remember how modest her first wishes were: another room, visits with friends and family, and a little writing.

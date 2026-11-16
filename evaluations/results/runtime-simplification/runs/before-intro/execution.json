@@ -1,5 +1,5 @@
 {
-  "task": "介绍一下《麦琪的礼物》这篇小说。",
+  "task": "Introduce The Gift of the Magi.",
   "language": "zh-CN",
   "tools_used": [
     "functions.exec",

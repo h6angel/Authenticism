@@ -1,13 +1,13 @@
 {
   "schema_version": "1.1",
   "work": {
-    "title": "Die Verwandlung / 变形记",
+    "title": "Die Verwandlung / The Metamorphosis",
     "author": "Franz Kafka",
     "edition": "David Wyllie English translation, Project Gutenberg #5200",
     "medium": "short_story",
     "language": "English"
   },
-  "request": "接着聊《变形记》：为什么格里高尔变成虫以后，仍然首先担心上班迟到？请聚焦这个问题，不必重讲全书。",
+  "request": "Continuing our discussion of The Metamorphosis: why does Gregor still worry first about being late for work after turning into an insect? Focus on this question; there is no need to retell the whole work.",
   "sources": [
     {
       "id": "primary",
