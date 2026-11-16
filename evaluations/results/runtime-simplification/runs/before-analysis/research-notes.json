@@ -1,0 +1,195 @@
+{
+  "schema_version": "1.1",
+  "work": {
+    "title": "The Yellow Wallpaper",
+    "author": "Charlotte Perkins Gilman",
+    "edition": "Project Gutenberg ebook 1952, updated 2026-09-16",
+    "medium": "short_story",
+    "language": "English"
+  },
+  "request": "解析一下《黄色墙纸》这篇小说。",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "The Yellow Wallpaper",
+      "kind": "primary",
+      "location": "https://www.gutenberg.org/cache/epub/1952/pg1952-images.html",
+      "language": "English",
+      "accessed": "2026-11-16",
+      "read_scope": "Entire story continuously read, web lines 24–485 across initial open and overlapping final open; license excluded.",
+      "snapshot": "sources/necessary-excerpts.txt"
+    },
+    {
+      "id": "S2",
+      "title": "Why I wrote The Yellow Wallpaper?",
+      "kind": "primary",
+      "location": "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/why-i-wrote-the-yellow-wallpaper/9F0803493F9D522712BB4B31BA5CCDC2",
+      "language": "English",
+      "accessed": "2026-11-16",
+      "read_scope": "Complete author statement lines 461–475; Cambridge reprint metadata."
+    }
+  ],
+  "understanding": {
+    "story": [
+      {
+        "id": "ST1",
+        "statement": "Rest cure restricts work; secret journal gives way to wallpaper study; woman becomes rescue project; locked-room tearing culminates in crawling over fainted husband.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "24–485"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "characters": [
+      {
+        "id": "CH1",
+        "statement": "John's affectionate actions coexist with rejecting her account and choices; absence of deliberate cruelty does not remove coercive effects.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "70–76; 212–265"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      },
+      {
+        "id": "CH2",
+        "statement": "Jennie upholds domestic competence; narrator feels inadequate as wife and mother.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "101–108;151–164"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "tone": [
+      {
+        "id": "TO1",
+        "statement": "Early humor and self-correction shift toward grotesque sensory immersion; narrator's excitement diverges from reader alarm.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "24–35;267–339;397–485"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "ideas": [
+      {
+        "id": "ID1",
+        "statement": "Authority to interpret distress becomes a central conflict; her mental deterioration does not invalidate every observation.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "251–265;306–313"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      },
+      {
+        "id": "ID2",
+        "statement": "Check against simple emancipation: she refuses exit, uses rope, and circles room.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "429–459"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "highlights": [
+      {
+        "id": "HI1",
+        "statement": "Secret interrupted writing makes suppression part of narrative form; wallpaper evolves from object to private task and substitute world.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "88;151;182–205;229–311"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      },
+      {
+        "id": "HI2",
+        "statement": "Existing wall damage is retrospectively unsettled by biting bed and shoulder matching smooch, without establishing previous inmates.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "144–147;337–339;440;459"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "ending": [
+      {
+        "id": "EN1",
+        "statement": "Crawling over John reverses posture and authority while room-bound repetition prevents uncomplicated victory.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "478–485"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "context": [
+      {
+        "id": "CO1",
+        "statement": "Author reports rest cure restrictions and recovery through work, distinguishes fictional hallucinations from own experience.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "S2",
+            "locator": "466–471"
+          }
+        ],
+        "scope": "Whole short story, English original",
+        "status": "supported"
+      }
+    ],
+    "reception": []
+  },
+  "essay_plan": {
+    "throughline": "Follow the loss of recognized voice into secret study, rescue, identification and ambivalent final reversal.",
+    "sections": [
+      "Orient and explain domestic treatment",
+      "Develop John and Jennie through concrete interactions",
+      "Trace wallpaper's changing function",
+      "Explain narrative voice and tonal divergence",
+      "Read final actions and qualify freedom",
+      "Use author statement and return to secrecy"
+    ],
+    "context_reception_decision": "Include author statement because it clarifies rest cure and fiction/autobiography distinction. Omit broad reception history: not needed for this reading; author-reported treatment changes not independently verified."
+  },
+  "quotes": [],
+  "open_questions": [
+    "Final Jane reference does not securely identify narrator; omitted from explanation rather than asserting a name."
+  ]
+}

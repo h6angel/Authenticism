@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-16",
+  "base_git_revision": "7083b37770d814f9e053d9bf49865e6bd0d7f522",
+  "comparison": "before vs after runtime/reading simplification, not with-skill vs without-skill",
+  "mode": "research",
+  "replicates_per_condition": 1,
+  "model": "Inherited root model and reasoning; exact deployment not exposed",
+  "budget": "Default inherited agent limits, no numeric per-run cap or artificial answer length",
+  "tools": "Same available tool set; actual usage in per-run execution.json",
+  "executor_context": "Fresh fork_turns=none agent per run; no proposed fixes or expectations supplied",
+  "requests": {
+    "intro": "介绍一下《麦琪的礼物》这篇小说。",
+    "analysis": "解析一下《黄色墙纸》这篇小说。",
+    "followup": "接着聊《变形记》：为什么格里高尔变成虫以后，仍然首先担心上班迟到？请聚焦这个问题，不必重讲全书。"
+  },
+  "limitations": [
+    "Single repetition, no human scores or statistical inference",
+    "Retrieval not fixed; source coverage must be compared",
+    "Evaluator capture wording can trigger evaluation-record rules; artifact counts alone do not measure ordinary-chat overhead",
+    "One baseline intro completion nudge sent near final completion; runs not wall-time matched",
+    "Follow-up is self-contained, not a multi-turn conversation",
+    "Short works and a novella opening only; no whole-novel generalization"
+  ]
+}

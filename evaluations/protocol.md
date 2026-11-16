@@ -16,6 +16,8 @@ Run each request with and without the skill, keeping model, tools, output budget
 
 Save request, sources, research-notes, explanation, and review. Never manufacture a baseline by degrading an improved answer. If independent execution is unavailable, record not_run rather than inventing outputs or scores.
 
+For ordinary-chat overhead checks, keep evaluator capture separate from the executor's task. Calling a run an evaluation can legitimately activate evaluation-specific record requirements. Report that contamination rather than attributing its files to ordinary use. A separate plain article-export request can probe whether an essay file alone causes a research archive, but does not establish the behavior of every chat request.
+
 ## Paired variants
 
 Execute each variants.json prompt independently. For followup variants, run base first, then followup. Stance changes must not add facts; form changes should retain similar events. Correct evidence-based revision is not sycophancy.

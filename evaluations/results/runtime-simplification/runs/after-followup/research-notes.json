@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.1",
+  "work": {
+    "title": "Die Verwandlung / 变形记",
+    "author": "Franz Kafka",
+    "edition": "David Wyllie English translation, Project Gutenberg #5200",
+    "medium": "short_story",
+    "language": "English"
+  },
+  "request": "接着聊《变形记》：为什么格里高尔变成虫以后，仍然首先担心上班迟到？请聚焦这个问题，不必重讲全书。",
+  "sources": [
+    {
+      "id": "primary",
+      "title": "Metamorphosis",
+      "kind": "primary",
+      "location": "https://www.gutenberg.org/cache/epub/5200/pg5200-images.html",
+      "language": "English",
+      "accessed": "2026-11-16",
+      "read_scope": "Web reader continuous chapter I opening lines 30–117; no later chapters read. Bibliographic page also inspected.",
+      "snapshot": "sources/opening-excerpt.txt"
+    }
+  ],
+  "understanding": {
+    "story": [
+      {
+        "id": "s1",
+        "statement": "Gregor initially notices transformation, tries sleeping and moving, then worries about travel and work.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "primary",
+            "locator": "lines 30–43"
+          }
+        ],
+        "scope": "Opening, chapter I",
+        "status": "supported"
+      }
+    ],
+    "characters": [
+      {
+        "id": "c1",
+        "statement": "Gregor dislikes his job but ties leaving it to repayment of his parents' debt.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "primary",
+            "locator": "lines 35–39"
+          }
+        ],
+        "scope": "Opening, chapter I",
+        "status": "supported"
+      },
+      {
+        "id": "c2",
+        "statement": "Fear of suspicion makes even reporting sickness problematic.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "primary",
+            "locator": "lines 42–43; 65–84"
+          }
+        ],
+        "scope": "Opening, chapter I",
+        "status": "supported"
+      }
+    ],
+    "tone": [
+      {
+        "id": "t1",
+        "statement": "Routine scheduling against physical catastrophe produces comic unease.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "primary",
+            "locator": "lines 30–43; 82–86"
+          }
+        ],
+        "scope": "Opening, chapter I",
+        "status": "supported"
+      }
+    ],
+    "ideas": [
+      {
+        "id": "i1",
+        "statement": "Work obligations remain an internal framework through which Gregor assesses himself.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "primary",
+            "locator": "lines 42–51; 82–86; 105–114"
+          }
+        ],
+        "scope": "Opening, chapter I",
+        "status": "supported"
+      }
+    ],
+    "highlights": [
+      {
+        "id": "h1",
+        "statement": "Close access to mundane calculation delays an adequate reckoning with transformed existence.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "primary",
+            "locator": "lines 30–60"
+          }
+        ],
+        "scope": "Opening, chapter I",
+        "status": "supported"
+      }
+    ],
+    "ending": [],
+    "context": [],
+    "reception": []
+  },
+  "essay_plan": {
+    "throughline": "Correct the literal first-thought premise, explain debt and discipline, then show the formal effect.",
+    "sections": [
+      "Focused reply connecting workplace fear, family obligation, habituated thought, and narrative incongruity."
+    ],
+    "context_reception_decision": "Omit biography, reception, and later plot because the follow-up is narrowly about the opening."
+  },
+  "quotes": [],
+  "open_questions": []
+}

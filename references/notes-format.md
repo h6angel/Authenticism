@@ -2,6 +2,10 @@
 
 The [schema](../schemas/research-notes.schema.json) defines the complete structure. Scripts require Python 3.10+ and only the standard library. `notes_common.py` implements the limited schema keywords used here; it is not a general JSON Schema engine. Update the validator and tests when extending the schema. Version-specific requirements (the 1.1 groups and essay plan) are enforced by notes_common.validate in addition to the shared JSON schema.
 
+## When to use these records
+
+Ordinary chat keeps traceable sources without generating files. Use the complete record set for evaluations or when the user requests a research archive. For direct-quotation verification, save research-notes.json and the necessary source snapshots; review.json and an essay file are not required for that check. Requesting an essay file alone does not request a research archive.
+
 ## Task files
 
 ```text

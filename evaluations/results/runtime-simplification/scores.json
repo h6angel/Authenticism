@@ -1,0 +1,70 @@
+{
+  "reviewers": 1,
+  "blinded_to_version": true,
+  "dimensions": [
+    "accuracy",
+    "coverage",
+    "ideas",
+    "tone",
+    "highlights",
+    "readability"
+  ],
+  "scores": {
+    "before-intro": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "after-intro": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      3
+    ],
+    "before-analysis": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      3
+    ],
+    "after-analysis": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      3
+    ],
+    "before-followup": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "after-followup": [
+      4,
+      4,
+      4,
+      4,
+      3,
+      4
+    ]
+  },
+  "major_hard_errors": 0,
+  "provisional_acceptance": "all six pass",
+  "pair_preferences": {
+    "intro": "before, slight compactness advantage",
+    "analysis": "tie, distinct local strengths",
+    "followup": "before, slightly fuller internalized-surveillance detail"
+  },
+  "limits": "Single blinded model rater; no second-rater reconciliation, repeated runs or significance claims; numeric scores have a ceiling effect."
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "run": "after-followup",
+    "tool": "validate_notes.py",
+    "returncode": 0,
+    "stdout": "{\"status\": \"passed\", \"errors\": []}",
+    "stderr": ""
+  },
+  {
+    "run": "after-followup",
+    "tool": "check_quotes.py",
+    "returncode": 0,
+    "stdout": "{\"status\": \"passed\", \"checked\": 0, \"results\": [], \"limit\": \"Text presence only; attribution, location and interpretation require review.\"}",
+    "stderr": ""
+  },
+  {
+    "run": "before-analysis",
+    "tool": "validate_notes.py",
+    "returncode": 0,
+    "stdout": "{\"status\": \"passed\", \"errors\": []}",
+    "stderr": ""
+  },
+  {
+    "run": "before-analysis",
+    "tool": "check_quotes.py",
+    "returncode": 0,
+    "stdout": "{\"status\": \"passed\", \"checked\": 0, \"results\": [], \"limit\": \"Text presence only; attribution, location and interpretation require review.\"}",
+    "stderr": ""
+  },
+  {
+    "run": "before-intro",
+    "tool": "validate_notes.py",
+    "returncode": 0,
+    "stdout": "{\"status\": \"passed\", \"errors\": []}",
+    "stderr": ""
+  },
+  {
+    "run": "before-intro",
+    "tool": "check_quotes.py",
+    "returncode": 0,
+    "stdout": "{\"status\": \"passed\", \"checked\": 0, \"results\": [], \"limit\": \"Text presence only; attribution, location and interpretation require review.\"}",
+    "stderr": ""
+  }
+]

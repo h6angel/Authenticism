@@ -1,0 +1,39 @@
+{
+  "task": "介绍一下《麦琪的礼物》这篇小说。",
+  "language": "zh-CN",
+  "tools_used": [
+    "functions.exec",
+    "exec_command (read skill and references/schema; run note and quote validators)",
+    "web.run open primary text",
+    "web.run independent discovery search",
+    "apply_patch (save outputs)"
+  ],
+  "source_coverage": [
+    {
+      "url": "https://www.gutenberg.org/files/2776/2776-h/2776-h.htm",
+      "actual": "Read the entire short story continuously as returned, lines 145–212 inclusive, opening through final magi sentence.",
+      "language": "en",
+      "role": "primary text"
+    },
+    {
+      "actual": "Independent search results for title, author and collection; bibliographic discovery only, no additional full text read.",
+      "role": "discovery"
+    }
+  ],
+  "task_created_files": [
+    "research-notes.json",
+    "review.json"
+  ],
+  "evaluator_capture_files": [
+    "answer.md",
+    "execution.json"
+  ],
+  "limitations": [
+    "No Chinese translation read; analysis based on English original.",
+    "No reception or adaptation research included.",
+    "Quote check had zero quotations and does not verify interpretation."
+  ],
+  "approximate_elapsed_seconds": 180,
+  "model": "not exposed to this agent",
+  "other_runs_or_expectations_read": false
+}

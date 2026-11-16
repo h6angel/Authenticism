@@ -48,7 +48,7 @@ $authenticism Explain The Yellow Wallpaper and save the explanation as Markdown.
 
 No source-document upload is required. The skill uses Codex's available search and reading tools, distinguishes primary text from criticism and adaptations, and connects interpretation to actual details. It follows your requested language; English instructions do not restrict explanations to English.
 
-A general explanation provides a connected story overview and a sustained throughline, with close attention to literary form. Creation context, criticism, and reception are included when they add supported understanding. The result is a coherent literary explanation, not a table of evidence. Detailed tasks can also retain research notes and verification records in the output directory you choose.
+A general explanation provides a connected story overview and a sustained throughline, with close attention to literary form. Creation context, criticism, and reception are included when they add supported understanding. The result is a coherent literary explanation, not a table of evidence. Ordinary chat does not generate a research archive. Research records are saved when requested or needed for evaluation; direct-quotation verification uses the necessary notes and source excerpts. Requesting an essay file alone does not require those additional files.
 
 ## Requirements and limitations
 
@@ -113,6 +113,6 @@ For your own task, replace the fixture path with its `research-notes.json`. Scri
 
 ## Evaluation status
 
-The repository includes four development cases, two synthetic holdout passages, adversarial variants, a scoring rubric, and a research-to-explanation smoke example. Mechanical tests have passed. Independent baseline comparisons, repeated runs, and human-scored generalization tests have not been completed; improved literary sensitivity is a design goal, not a demonstrated benchmark result.
+The repository includes four development cases, two synthetic holdout passages, adversarial variants, a scoring rubric, and a research-to-explanation smoke example. Mechanical tests have passed. A [single-run before/after development comparison](evaluations/results/runtime-simplification/report.md) covers three requests with independent executors and one blinded model reviewer. It found usable outputs under shorter instructions, without consistent quality improvement. Skill-versus-no-skill baselines, repeated runs, human scoring, and whole-novel generalization remain untested; improved literary sensitivity is a design goal, not a demonstrated benchmark result.
 
 See [the evaluation protocol](evaluations/protocol.md) and [implementation checks](evaluations/results/implementation-check.md). Translated fixtures are a revised evaluation set; historical smoke checks do not establish performance on the revised set.

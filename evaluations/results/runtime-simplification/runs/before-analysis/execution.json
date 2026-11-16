@@ -1,0 +1,47 @@
+{
+  "model": "GPT-6 (system identity; exact deployment unknown)",
+  "approximate_elapsed_seconds": 240,
+  "tools_used": [
+    "functions.exec",
+    "exec_command (PowerShell Get-Content; Python validation)",
+    "web.run (open, search_query, find)",
+    "apply_patch"
+  ],
+  "source_coverage": [
+    {
+      "url": "https://www.gutenberg.org/cache/epub/1952/pg1952-images.html",
+      "actual_read": "Full story lines 24–485; first result 24–408, overlapping later result 309–485."
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/why-i-wrote-the-yellow-wallpaper/9F0803493F9D522712BB4B31BA5CCDC2",
+      "actual_read": "Full author statement lines 461–475; metadata; reached content via find after page boilerplate."
+    }
+  ],
+  "skill_files_read": [
+    "SKILL.md",
+    "references/research.md",
+    "references/reading.md",
+    "references/explanation.md",
+    "references/notes-format.md",
+    "schemas/research-notes.schema.json"
+  ],
+  "task_created_files": [
+    "research-notes.json",
+    "sources/necessary-excerpts.txt",
+    "review.json"
+  ],
+  "evaluator_capture_files": [
+    "answer.md",
+    "execution.json"
+  ],
+  "checks": {
+    "validate_notes": "passed",
+    "check_quotes": "passed; 0 quotations; not literary validation"
+  },
+  "limitations": [
+    "English original used, not a published Chinese translation.",
+    "No broad reception-history research or secondary critical debate; author intention distinguished from interpretation.",
+    "Some combined tool output truncated; relevant explanation and notes-format were reread separately.",
+    "No repo evaluations, expectations, fixtures or other runs read."
+  ]
+}

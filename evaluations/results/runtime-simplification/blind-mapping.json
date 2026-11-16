@@ -1,0 +1,14 @@
+{
+  "intro": {
+    "A": "after",
+    "B": "before"
+  },
+  "analysis": {
+    "A": "before",
+    "B": "after"
+  },
+  "followup": {
+    "A": "after",
+    "B": "before"
+  }
+}

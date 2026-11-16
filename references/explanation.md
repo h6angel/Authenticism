@@ -2,7 +2,7 @@
 
 ## Plan the progression
 
-Use the whole-work scope defined in SKILL.md; focused follow-ups address their question. Before drafting, decide how the article moves from beginning to end and which scenes require sustained explanation. Sections should advance understanding rather than list analytical categories. Record that progression in the existing essay plan, including why context or reception belongs or is omitted. Follow changes in consciousness, imagery, or voice when those organize the work better than plot.
+Use the whole-work scope defined in SKILL.md; focused follow-ups address their question. Before drafting, decide how the article moves from beginning to end and which scenes require sustained explanation. Sections should advance understanding rather than list analytical categories. Keep the plan concise; when structured records are needed, use their essay-plan field. Follow changes in consciousness, imagery, or voice when those organize the work better than plot.
 
 ## Write an article that develops
 
@@ -16,14 +16,10 @@ Include context and criticism where they change understanding of concrete choice
 
 Let the material determine length. When shortening, remove repeated judgments and generic commentary while retaining what the reader needs to understand consequential changes, characters, and artistic treatment.
 
-## Markdown hierarchy
-
-Render the guide directly as Markdown: one `#` title for the article, `##` headings for its main movements, and `###` subheadings where a longer section develops subordinate questions. Keep peer sections at the same level and use headings that convey their content and relationship. Leave a blank line around headings and between paragraphs. Bold emphasizes a phrase within prose; it does not replace section headings. Choose the divisions to fit the article rather than imposing a fixed outline.
-
 ## Review the finished article
 
 - Can the reader understand the principal story and important transitions, beyond knowing which subjects the work addresses?
 - Are major judgments fully developed through concrete scenes, relationship changes, or artistic treatment, with claims supported by the material actually read?
 - Does understanding advance throughout the article, with meaningful connections between sections?
 
-Repair what is missing in the draft or return to research; repeating conclusions does not fill a gap. For detailed deliverables and evaluations, record strengths, concrete gaps, and revisions or remaining limitations briefly in review.json. Deliver Markdown in chat unless a file is requested or needed for evaluation.
+Repair what is missing in the draft or return to research; repeating conclusions does not fill a gap. For evaluations or requested research records, save a brief review.json describing strengths, concrete gaps, and revisions or remaining limitations. Deliver Markdown in chat unless a file is requested or needed for evaluation.

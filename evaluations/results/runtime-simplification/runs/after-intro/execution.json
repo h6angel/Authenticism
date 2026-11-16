@@ -1,0 +1,29 @@
+{
+  "actual_tools": [
+    "functions.exec",
+    "exec_command: read SKILL.md and four supporting reference files; create run directory",
+    "web.run: opened Project Gutenberg primary text; independent discovery search",
+    "apply_patch: save evaluator captures"
+  ],
+  "source_coverage": [
+    {
+      "url": "https://www.gutenberg.org/files/2776/2776-h/2776-h.htm",
+      "language": "English",
+      "coverage": "Read complete The Gift of the Magi continuously, lines 145–212, from opening savings through final Magi judgment; surrounding collection contents and metadata also returned."
+    },
+    {
+      "coverage": "Independent search results inspected for identity and publication leads; no secondary result opened or used for publication-date claims."
+    }
+  ],
+  "task_created_files": [],
+  "evaluator_capture_files": [
+    "answer.md",
+    "execution.json"
+  ],
+  "limitations": [
+    "No Chinese translation consulted; Chinese descriptions are own paraphrases of English primary text.",
+    "No external criticism or reception claims included; primary text sufficed for ordinary introduction."
+  ],
+  "approximate_elapsed_seconds": 160,
+  "model": "GPT-6 family; exact deployment identifier unavailable"
+}

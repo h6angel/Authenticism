@@ -36,16 +36,7 @@ Ask about identity only when ambiguity materially changes the answer. If primary
 
 Use available search tools for discovery, page/text readers for continuous reading, and in-text search for navigation. No particular search provider is required. If browsing is unavailable, disclose that limitation instead of claiming research occurred.
 
-For detailed explanations, file deliverables, and evaluations, save research notes and necessary source excerpts. Brief follow-ups need only relevant source support. Save only necessary, lawfully accessible material with its actual coverage; do not bypass access restrictions.
-
-From the skill directory, replace the task paths below:
-
-```text
-python -X utf8 scripts/validate_notes.py <task>/research-notes.json
-python -X utf8 scripts/check_quotes.py <task>/research-notes.json
-```
-
-The scripts emit JSON. Exit codes: 0 passed, 1 invalid input or mismatch, 2 unverifiable quotations. Re-read, remove the direct quotation, or state the limitation when verification is unavailable. These checks do not assess literary quality or interpretive correctness.
+Keep enough source and reading-coverage information to trace important facts and quotations. Ordinary chat does not require files. For requested research records, evaluation, or direct-quotation verification, use [notes-format.md](references/notes-format.md) and its relevant checks. A requested essay file alone does not require a full research archive. Save only necessary, lawfully accessible material with its actual coverage.
 
 ## Supporting resources
 

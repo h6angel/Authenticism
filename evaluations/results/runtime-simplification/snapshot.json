@@ -1,0 +1,49 @@
+{
+  "baseline": "working tree before record/reading simplification; title rule already removed",
+  "sha256": {
+    "SKILL.md": "fb15e789d301ec9c90f4c41fd64d537b3f1c7a8c869e7c365c0b437dc481c9fb",
+    "references/examples.md": "847ec6cd0f256e8eb4f10fbb91247c720c809b35a9bcb91bb77c8f9abfe9f03b",
+    "references/explanation.md": "fdb7066fbc084c60869fac54c081be3824fbf023ec8a87c35cf10478cdf3e95c",
+    "references/notes-format.md": "9bec03de10773c4f4cd3da1d07308cda711e83b377cfcf84ed79a1473cbebc32",
+    "references/reading.md": "3dd2badf99af5a374e9eaa4e90e945d3e052e69f931ea53f9d727e92cd5bab02",
+    "references/research.md": "429a2ceba3e5d6b534164fe0e8bc76329830de069d4891e0a2fa981e80477c4a",
+    "schemas/research-notes.schema.json": "ba4e084675e2e3fb1e2b9adbe321a55e0aebf5c6f43bc51288945ae7c13a3bb6",
+    "scripts/check_quotes.py": "ebede183cfb2b985b4260b274f93c2003505165b9da104b17fec158ba3882a83",
+    "scripts/notes_common.py": "b1eee2e87d4d979b42e280493f6190ac73410550f65f0b5ccb28dcdba3fc038b",
+    "scripts/validate_notes.py": "7072591e8999ed200cfe7064d60c4d07bc52228474dd7354138b538467176813"
+  },
+  "after_sha256": {
+    "SKILL.md": "9a372c660b8abb3a9a6d3494febdb71fd1fae1d8c8869117267ff88a2481f01e",
+    "references/examples.md": "847ec6cd0f256e8eb4f10fbb91247c720c809b35a9bcb91bb77c8f9abfe9f03b",
+    "references/explanation.md": "8f8773c5949cfb7945956b677b299f40807c79f923bafc4ec530cf29b08f4cec",
+    "references/notes-format.md": "54b0459913cebe60f1c15515aab9df9938173458da8e449645965aa974fc9765",
+    "references/reading.md": "214be60c0c796e072cf48327bdfc6efefbda7be20d392aa2506ff49078788fe8",
+    "references/research.md": "881b112f44b859f7abeb83924257095c8ab3f1a13107bb9f0604e5e0e92d7962",
+    "schemas/research-notes.schema.json": "ba4e084675e2e3fb1e2b9adbe321a55e0aebf5c6f43bc51288945ae7c13a3bb6",
+    "scripts/check_quotes.py": "ebede183cfb2b985b4260b274f93c2003505165b9da104b17fec158ba3882a83",
+    "scripts/notes_common.py": "b1eee2e87d4d979b42e280493f6190ac73410550f65f0b5ccb28dcdba3fc038b",
+    "scripts/validate_notes.py": "7072591e8999ed200cfe7064d60c4d07bc52228474dd7354138b538467176813"
+  },
+  "word_counts": {
+    "SKILL.md": {
+      "before": 552,
+      "after": 510
+    },
+    "references/reading.md": {
+      "before": 1942,
+      "after": 680
+    },
+    "references/explanation.md": {
+      "before": 397,
+      "after": 395
+    },
+    "references/research.md": {
+      "before": 667,
+      "after": 669
+    },
+    "references/notes-format.md": {
+      "before": 466,
+      "after": 527
+    }
+  }
+}

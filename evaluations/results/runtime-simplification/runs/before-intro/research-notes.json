@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.1",
+  "work": {
+    "title": "麦琪的礼物 / The Gift of the Magi",
+    "author": "O. Henry",
+    "edition": "Project Gutenberg The Four Million #2776",
+    "medium": "short_story",
+    "language": "en"
+  },
+  "request": "介绍一下《麦琪的礼物》这篇小说。",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "The Gift of the Magi, in The Four Million",
+      "kind": "primary",
+      "location": "https://www.gutenberg.org/files/2776/2776-h/2776-h.htm",
+      "language": "en",
+      "accessed": "2026-11-16",
+      "read_scope": "连续读完全文：网页行145–212；从1.87美元开头至They are the magi结尾。"
+    }
+  ],
+  "understanding": {
+    "story": [
+      {
+        "id": "P1",
+        "statement": "德拉积蓄不足，卖发买表链；吉姆回来后先揭晓发梳，再揭晓卖表，双方礼物暂时失去用途。",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "147–212"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "characters": [
+      {
+        "id": "C1",
+        "statement": "德拉选表链既看中与吉姆相似的朴素品质，也留意旧皮带使丈夫不便在人前取表；卖发后仍担忧失去吸引力。",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "173–198"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "tone": [
+      {
+        "id": "T1",
+        "statement": "叙述由数钱的急促、对公寓与姓名的调侃，转为双方牺牲后的温柔肯定；幽默并未抹去贫穷。",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "147–160；195–212"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "ideas": [
+      {
+        "id": "I1",
+        "statement": "礼物实用性的失败显出双方付出的对等；结尾智慧与愚蠢的反转重新评价赠礼。",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "199–212"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "highlights": [
+      {
+        "id": "H1",
+        "statement": "叙述紧随德拉并延迟吉姆的交易信息，使进门时凝视先制造焦虑后获得解释。",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "181–210"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "ending": [
+      {
+        "id": "E1",
+        "statement": "吉姆让暂存礼物并准备晚餐，日常恢复；贫穷与失物没有被神奇解决。",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "208–212"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "context": [
+      {
+        "id": "X1",
+        "statement": "题目中的麦琪由原文结尾献礼的智者解释，与两位年轻赠礼者构成类比。",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "211–212"
+          }
+        ],
+        "scope": "完整短篇",
+        "status": "supported"
+      }
+    ],
+    "reception": []
+  },
+  "essay_plan": {
+    "throughline": "由窘迫进入德拉送礼的愿望，展开相处细节与礼物揭晓，再说明叙述结构、口吻、题目和日常收束。",
+    "sections": [
+      "作品与剧透提示",
+      "完整情节与动机",
+      "信息延迟和对称行动",
+      "叙述口吻",
+      "麦琪与晚餐结尾"
+    ],
+    "context_reception_decision": "题目所需的圣诞献礼语境由原文支持；普通介绍不展开改编与接受史，未作流行度或影响断言。"
+  },
+  "quotes": [],
+  "open_questions": []
+}
