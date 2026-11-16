@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "作品研究笔记（初始结构）",
+  "description": "暂定字段，后续完善引用关系及字段约束。",
+  "type": "object",
+  "required": ["work", "sources", "understanding", "open_questions"],
+  "properties": {
+    "work": {
+      "type": "object",
+      "required": ["title"],
+      "properties": {
+        "title": {"type": "string"},
+        "author": {"type": "string"},
+        "edition": {"type": ["string", "null"]},
+        "medium": {"type": "string"}
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "location", "read_scope"],
+        "properties": {
+          "id": {"type": "string"},
+          "kind": {"type": "string"},
+          "location": {"type": "string"},
+          "read_scope": {"type": "string"}
+        }
+      }
+    },
+    "understanding": {
+      "type": "object",
+      "properties": {
+        "story": {"type": "array"},
+        "characters": {"type": "array"},
+        "tone": {"type": "array"},
+        "ideas": {"type": "array"},
+        "highlights": {"type": "array"},
+        "ending": {"type": "array"}
+      }
+    },
+    "open_questions": {"type": "array", "items": {"type": "string"}}
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "文学作品讲解"
+  short_description: "自主检索作品材料，讲清故事、思想与亮点，保留作品基调"
+  default_prompt: "请使用 $authenticism 检索并讲解这部作品，说明故事、人物、核心思想与艺术亮点，让讲解保留作品的独特基调。"
