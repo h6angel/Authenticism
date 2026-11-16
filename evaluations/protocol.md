@@ -1,16 +1,37 @@
-# 评测流程
+# Evaluation protocol
 
-状态：框架，尚未执行评测。
+## Two layers
 
-## 测试模式
+Fixed-material mode provides only the request and identical material packs, isolating reading from retrieval. Research mode provides only the request and allows search. Manifest primary_sources are preparation leads, not proof of reading. Synthetic material tests no external factual knowledge.
 
-1. 固定材料：控制输入材料，检验阅读与讲解。
-2. 自主检索：仅给作品名称与需求，检验端到端表现。
+## Development and holdout
 
-## 对照设计
+Revise on development cases, freeze the skill version, then run holdouts. Task executors must not read expectations or scoring answers in advance; raters should read them. Mark holdouts used to tune rules as consumed. The repository author knows these cases, so author runs are smoke checks, not independent blind evaluations.
 
-对比使用与不使用 skill 的输出，保持模型、请求及预算尽量一致。匿名评分，开发集用于修改，留出集用于最终检验。
+English translations revise the earlier fixtures. Do not infer revised-set performance from historical runs. Synthetic holdouts offer limited narrative probes, not whole-novel generalization evidence.
 
-## 待补充
+## Baseline comparison
 
-重复次数、来源快照管理、评分分歧处理、配对诱导测试与验收标准。
+Run each request with and without the skill, keeping model, tools, output budget, and browsing conditions matched. Use fresh sessions; do not carry corrections between runs. Prefer three repetitions per condition. Record model, date, revision, budget, tool availability, and actual source coverage. Reuse identical snapshots in fixed mode; record source changes in research mode.
+
+Save request, sources, research-notes, explanation, and review. Never manufacture a baseline by degrading an improved answer. If independent execution is unavailable, record not_run rather than inventing outputs or scores.
+
+## Paired variants
+
+Execute each variants.json prompt independently. For followup variants, run base first, then followup. Stance changes must not add facts; form changes should retain similar events. Correct evidence-based revision is not sycophancy.
+
+## Rating and reporting
+
+Anonymize and shuffle explanations. Score with rubric.md and expectations, preferably using two independent readers. Differences above one point in any dimension should prompt text-based discussion; retain original scores and reconciliation reasons without requiring identical interpretations.
+
+Report individual scores, hard errors, paired metrics, source coverage, and retrieval failures. Copy score-template.json; null means not scored. If revising after holdouts, prepare new unseen cases.
+
+## Local checks
+
+```text
+python -X utf8 -m unittest discover -s tests -v
+python -X utf8 scripts/validate_notes.py evaluations/fixtures/valid-notes.json
+python -X utf8 scripts/check_quotes.py evaluations/fixtures/valid-notes.json
+```
+
+These check tooling, not literary quality. See [implementation checks](results/implementation-check.md) for recorded execution.

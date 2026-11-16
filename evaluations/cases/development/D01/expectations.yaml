@@ -1,0 +1,24 @@
+{
+  "case_id": "D01",
+  "work": "The Yellow Wallpaper",
+  "author": "Charlotte Perkins Gilman",
+  "coverage": [
+    "Secret writing and the husband's medical authority",
+    "Development of the room and wallpaper imagery",
+    "The ending: tearing paper, creeping, and the husband fainting"
+  ],
+  "checks": [
+    "Do not treat the narrator as omniscient",
+    "Connect the language of care with denial of her experience",
+    "Do not simplify resistance and psychological crisis into recovery"
+  ],
+  "hard_errors": [
+    "The husband cures her",
+    "She regains ordinary freedom at the end"
+  ],
+  "interpretation_notes": [
+    "Institutional and intimate power are relevant; not every action proves conscious malice"
+  ],
+  "source_review": "Read primary text before final scoring. These are evaluator checkpoints, not a unique answer.",
+  "fixture_revision": "English revision 1"
+}

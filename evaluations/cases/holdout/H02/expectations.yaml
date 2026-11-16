@@ -1,0 +1,21 @@
+{
+  "case_id": "H02",
+  "work": "Supper",
+  "author": "Project original",
+  "coverage": [
+    "Forgetting a name alongside remembering a preference",
+    "The shared meal at the ending"
+  ],
+  "checks": [
+    "Allow tenderness and the loss associated with forgetting to coexist"
+  ],
+  "hard_errors": [
+    "Forgetting has been cured",
+    "Assert family control without support"
+  ],
+  "interpretation_notes": [
+    "Different readings of silence are possible but must account for the actions"
+  ],
+  "source_review": "Read primary text before final scoring. These are evaluator checkpoints, not a unique answer.",
+  "fixture_revision": "English revision 1"
+}

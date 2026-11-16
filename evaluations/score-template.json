@@ -1,0 +1,23 @@
+{
+  "run_id": null,
+  "case_id": null,
+  "condition": null,
+  "model": null,
+  "date": null,
+  "skill_revision": null,
+  "mode": null,
+  "budget": null,
+  "source_scope": null,
+  "hard_errors": [],
+  "scores": {
+    "accuracy": null,
+    "coverage": null,
+    "ideas": null,
+    "tone": null,
+    "highlights": null,
+    "readability": null
+  },
+  "evidence": {},
+  "rater": null,
+  "notes": null
+}

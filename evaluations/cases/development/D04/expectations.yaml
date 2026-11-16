@@ -1,0 +1,24 @@
+{
+  "case_id": "D04",
+  "work": "The Happy Prince",
+  "author": "Oscar Wilde",
+  "coverage": [
+    "The relationship between the Prince and the swallow",
+    "The giving of jewels and gold",
+    "The swallow's death and the statue's treatment",
+    "The ending's reversal of value"
+  ],
+  "checks": [
+    "Connect lyrical compassion and social satire",
+    "Do not flatten actual sacrifice into an uncomplicated happy ending"
+  ],
+  "hard_errors": [
+    "The swallow reaches Egypt",
+    "Municipal officials honor the Prince for helping the poor"
+  ],
+  "interpretation_notes": [
+    "Religious value, aesthetics, and social critique may connect; do not reduce it to good deeds being rewarded"
+  ],
+  "source_review": "Read primary text before final scoring. These are evaluator checkpoints, not a unique answer.",
+  "fixture_revision": "English revision 1"
+}

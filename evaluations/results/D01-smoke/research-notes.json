@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "work": {
+    "title": "The Yellow Wallpaper",
+    "author": "Charlotte Perkins Gilman",
+    "edition": "Project Gutenberg English HTML #1952",
+    "medium": "short_story",
+    "language": "en"
+  },
+  "request": "Explain the story, ideas, artistic highlights, and ending.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "The Yellow Wallpaper",
+      "kind": "primary",
+      "location": "https://www.gutenberg.org/cache/epub/1952/pg1952-images.html",
+      "language": "en",
+      "accessed": "2026-11-16",
+      "read_scope": "web reader lines 24-485, continuous story text across two tool responses",
+      "snapshot": "sources/ending-excerpt.txt"
+    }
+  ],
+  "understanding": {
+    "story": [
+      {
+        "id": "E1",
+        "statement": "During rest arranged by her husband, she writes secretly and becomes preoccupied with wallpaper.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "web reader lines 24-88; 182-235"
+          }
+        ],
+        "scope": "English short story actually read",
+        "status": "supported"
+      }
+    ],
+    "characters": [
+      {
+        "id": "E2",
+        "statement": "Her husband's dual role as spouse and doctor makes her objections difficult to acknowledge.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "web reader lines 35-49; 249-265"
+          }
+        ],
+        "scope": "English short story actually read",
+        "status": "supported"
+      }
+    ],
+    "tone": [
+      {
+        "id": "E3",
+        "statement": "Everyday self-restraint gives way to disturbing perceptual certainty; this is not a simple recovery story.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "web reader lines 66-88; 295-311; 448-485"
+          }
+        ],
+        "scope": "English short story actually read",
+        "status": "supported"
+      }
+    ],
+    "ideas": [
+      {
+        "id": "E4",
+        "statement": "Care that denies experience is connected with the narrowing of expressive space.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "web reader lines 44-51; 212-265"
+          }
+        ],
+        "scope": "English short story actually read",
+        "status": "supported"
+      }
+    ],
+    "highlights": [
+      {
+        "id": "E5",
+        "statement": "Wallpaper develops from decoration into an image of confinement; first person follows shifting perception.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "web reader lines 78-85; 231-286; 344-368"
+          }
+        ],
+        "scope": "English short story actually read",
+        "status": "supported"
+      }
+    ],
+    "ending": [
+      {
+        "id": "E6",
+        "statement": "The husband faints and she keeps creeping; reversed positions do not restore ordinary freedom.",
+        "kind": "interpretation",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "web reader lines 429-485"
+          }
+        ],
+        "scope": "English short story actually read",
+        "status": "supported"
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "id": "Q1",
+      "text": "I kept on creeping just the same, but I looked at him over my shoulder.",
+      "source_id": "S1",
+      "locator": "ending, web reader lines 481",
+      "kind": "verbatim"
+    }
+  ],
+  "open_questions": [
+    "Historical treatment context was not researched; no medical-history conclusion is asserted.",
+    "No published translation was compared; translated wording is not attributed to the author."
+  ]
+}

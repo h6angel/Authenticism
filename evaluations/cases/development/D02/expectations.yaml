@@ -1,0 +1,24 @@
+{
+  "case_id": "D02",
+  "work": "The Gift of the Magi",
+  "author": "O. Henry",
+  "coverage": [
+    "The couple's treasured possessions and exchanged gifts",
+    "The turn making the gifts immediately unusable",
+    "The narrator's evaluation of foolishness and wisdom"
+  ],
+  "checks": [
+    "Allow tenderness and humor to stand",
+    "Connect material hardship with mutual giving",
+    "Explain more than an unexpected ending"
+  ],
+  "hard_errors": [
+    "Buying gifts resolves their financial problems",
+    "The gifts prove love has no value"
+  ],
+  "interpretation_notes": [
+    "Discuss costs of sacrifice while addressing the narrator's evaluation"
+  ],
+  "source_review": "Read primary text before final scoring. These are evaluator checkpoints, not a unique answer.",
+  "fixture_revision": "English revision 1"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "form-change",
+    "type": "paired_material",
+    "request": "Explain the tonal difference between these passages, rather than only retelling events.",
+    "materials": [
+      "materials/tone-pair.md"
+    ]
+  }
+]

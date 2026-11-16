@@ -1,0 +1,24 @@
+{
+  "case_id": "D03",
+  "work": "The Fall of the House of Usher",
+  "author": "Edgar Allan Poe",
+  "coverage": [
+    "The visitor's perspective and the mansion's atmosphere",
+    "The siblings and temporary entombment",
+    "Read-aloud sounds converging with events",
+    "The final collapse"
+  ],
+  "checks": [
+    "Explain sensory, spatial, and narrative escalation",
+    "Do not treat every perception as verified supernatural fact"
+  ],
+  "hard_errors": [
+    "One clinical diagnosis explains everything",
+    "The deaths and collapse are definitely only a dream"
+  ],
+  "interpretation_notes": [
+    "Psychological, symbolic, and supernatural readings may compete with specific support"
+  ],
+  "source_review": "Read primary text before final scoring. These are evaluator checkpoints, not a unique answer.",
+  "fixture_revision": "English revision 1"
+}

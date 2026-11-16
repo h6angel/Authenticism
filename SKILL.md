@@ -1,36 +1,53 @@
 ---
 name: authenticism
-description: 自主检索并讲解小说作品，讲清故事、人物、核心思想与艺术亮点，保留作品的叙述基调。适用于作品介绍、深入讲解和阅读讨论。
+description: Research and explain novels and short stories, connecting plot, characters, central ideas, and artistic highlights while preserving the work's distinctive tone. Use for introductions, detailed explanations, and literary discussion.
 ---
 
-# 文学作品讲解
+# Authenticism
 
-## 目标
+## Purpose and scope
 
-用户通常只提供作品名称。主动获取材料，形成对作品的理解，最终交付清楚、完整且具有作品辨识度的中文 Markdown 讲解。
+Users usually provide only a title. Find and read relevant sources, develop an understanding of the work, and deliver an accessible, substantial Markdown explanation in the user's requested language, or the language of their request.
 
-这是初始框架；参考文件与评测流程尚待补充和行为验证。
+The current scope is novels and short stories. Do not force poetry or drama into a plot-and-character framework. Simple bibliographic questions do not require the full workflow.
 
-## 核心要求
+## Essential rules
 
-- 讲清故事、人物关系、核心思想、关键场景和艺术亮点；基调贯穿讲解。
-- 区分人物感受、叙述态度与阅读效果，不默认温情化或冷酷化。
-- 区分原著、译本、改编、用户复述与评论，重要事实核实后使用。
-- 没有读到具体文字，不编造引文，不声称完成全文细读。
-- 解释回到作品细节；不以通用理论、主题词或用户观点替代阅读。
-- 前台输出作品讲解，后台保留材料、依据与核查记录。
+- Explain the story, relationships, central ideas, key scenes, and artistic highlights. Preserve tone throughout the explanation.
+- Distinguish character emotion, narrative attitude, and reader response. Default to neither consolation nor cruelty.
+- Separate originals, translations, adaptations, user recollections, and criticism. Verify important facts.
+- Never invent quotations or imply a complete close reading when the text was not read.
+- Ground interpretations in specific features of the work; theory, theme labels, and user opinions cannot replace reading.
+- Present a literary explanation to the reader; keep research and verification records in the background.
 
-## 主流程
+## Workflow
 
-1. 确认作品身份、讨论对象和讲解需求。
-2. 按 [research.md](references/research.md) 检索、阅读并记录来源。
-3. 按 [reading.md](references/reading.md) 建立作品理解，检查缺口并补充检索。
-4. 按 [explanation.md](references/explanation.md) 组织讲解，按需参考 [examples.md](references/examples.md)。
-5. 核查事实与引文，修正遗漏、套话和基调失真，交付 Markdown。
+1. Identify the work, medium, and requested depth.
+2. Follow [research.md](references/research.md) to search independently, open sources, and record actual reading coverage. Do not assume the user will upload a document.
+3. Follow [reading.md](references/reading.md) to connect story, tone, ideas, and form; investigate important gaps.
+4. Follow [explanation.md](references/explanation.md) to write for the reader. Consult [examples.md](references/examples.md) when useful.
+5. Check facts, quotations, omissions, generic claims, and tonal distortion. Deliver a coherent Markdown explanation, not an evidence report.
 
-## 资源边界
+For complete explanations, briefly announce major spoilers; honor requests to avoid them. Ask about identity only when ambiguity materially changes the answer. If primary text is unavailable, continue with reliable materials, briefly limit relevant claims, and do not fabricate language analysis.
 
-- 研究笔记结构见 [schema](schemas/research-notes.schema.json)。
-- `scripts/` 的检查工具尚未实现，不得声称已通过自动校验。
-- `evaluations/` 用于开发和评测，不在常规讲解时默认加载。
-- 任务产物保存于用户指定的输出位置，不写入 skill 规则和测试材料。
+## Tools and checks
+
+Use available search tools for discovery, page/text readers for continuous reading, and in-text search for navigation. No particular search provider is required. If browsing is unavailable, disclose that limitation instead of claiming research occurred.
+
+For detailed explanations, file deliverables, and evaluations, save research notes and necessary source excerpts. Brief follow-ups need only relevant source support. Save only necessary, lawfully accessible material with its actual coverage; do not bypass access restrictions.
+
+From the skill directory, replace the task paths below:
+
+```text
+python -X utf8 scripts/validate_notes.py <task>/research-notes.json
+python -X utf8 scripts/check_quotes.py <task>/research-notes.json
+```
+
+The scripts emit JSON. Exit codes: 0 passed, 1 invalid input or mismatch, 2 unverifiable quotations. Re-read, remove the direct quotation, or state the limitation when verification is unavailable. These checks do not assess literary quality or interpretive correctness.
+
+## Supporting resources
+
+- [Research notes schema](schemas/research-notes.schema.json).
+- [Fields, examples, and script contracts](references/notes-format.md).
+- `evaluations/` is for development and evaluation; do not load it during normal explanations.
+- Save task outputs in the user's chosen location, not in the skill's instructions or evaluation fixtures.

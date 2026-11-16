@@ -1,19 +1,51 @@
-# 面向读者的讲解
+# Turn understanding into an explanation
 
-状态：框架，待补充输出示例。
+## Choose depth and spoiler scope
 
-## 输出模式
+An introduction establishes the story, central tension, distinctive reading experience, and a useful entry point. A detailed explanation connects characters, ideas, key scenes, and artistic features. A follow-up answers the current question without repeating the entire introduction.
 
-- 作品介绍：建立整体认识，按需求控制剧透。
-- 深入讲解：故事、人物、思想与艺术亮点相互连接。
-- 局部追问：直接回应当前问题，不重复整篇介绍。
+Honor requested length and spoiler limits. For complete explanations, briefly flag major events and the ending. For spoiler-free requests, use the opening situation and early scenes; do not pretend to explain the ending without revealing it.
 
-## 组织原则
+## Organize for the reader
 
-开篇点出作品独特之处。根据作品选择结构，把关键场景讲透，让基调贯穿表达。结尾与前文联系紧密时重点展开。
+Open with what kind of work this is and its most important tension. Keep necessary background brief. Explain relationships and story movement, pausing at consequential scenes to explain actions rather than summarizing every chapter equally.
 
-依据融入正文，主要来源简洁附后。默认不展示证据表、假设编号和后台核查记录。
+Develop central ideas through the story and its telling: what problem does the work intensify, and how does the ending complicate it? Explain the most powerful artistic choices. Carry tone through details, wording, and emphasis. Give form or the ending a separate section only when useful. For works driven by consciousness, imagery, or voice, follow that movement instead of imposing conventional plot.
 
-## 待补充
+## Optional Markdown shape
 
-完整讲解骨架、篇幅选择、剧透处理、材料不足时的自然表述，以及成稿复核清单。
+```markdown
+# Title: a phrase identifying the work's distinctive quality
+
+Opening, necessary context, and spoiler scope.
+
+## How the story and relationships develop
+Explain characters naturally within consequential scenes.
+
+## The work's central tension
+Connect story and form to its ideas and their complexity.
+
+## What deserves a closer look
+Explain representative scenes, language, or structure and their power.
+
+## How the ending completes the work
+Include only when useful.
+
+A closing understanding of the whole work.
+
+Principal sources: concise links and edition information.
+```
+
+These are content relationships, not mandatory headings. Organize around characters, events, or tensions as appropriate. Avoid recounting the same event three times under plot, psychology, and ideas. Do not expose hypothesis IDs, evidence matrices, or search logs unless requested. Integrate short quotations and details naturally instead of writing an argument checklist.
+
+## Expression and final review
+
+- Preserve tone throughout; labeling a work cruel or tender is insufficient. Clear explanation does not require imitating a narrator's abuse of characters.
+- Explain how an artistic highlight works, not merely that the prose is beautiful or the structure ingenious.
+- Do not reduce central ideas to theme labels or an unsupported life lesson attributed to the author.
+- Match interpretive strength to evidence. State important limitations briefly without overwhelming the essay.
+- Attribute distinctive borrowed ideas, label self-translations, and respect source/tool quotation limits.
+
+Check: can a new reader follow the relationships and turning points? Does a returning reader learn something specific? Are important scenes or the ending missing? Have adaptations intruded? Would the analysis survive unchanged under another title? Has habitual explanatory language flattened the tone? Return to material or revise where needed.
+
+Default to Markdown in chat. Save a file when requested or needed for evaluation artifacts.

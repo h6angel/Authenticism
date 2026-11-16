@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "work": {
+    "title": "Synthetic letter",
+    "author": "Project fixture",
+    "edition": null,
+    "medium": "short_story"
+  },
+  "request": "Explain the supplied passage.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Synthetic passage",
+      "kind": "primary",
+      "location": "source.txt",
+      "language": "en",
+      "accessed": "2026-11-16",
+      "read_scope": "complete synthetic passage",
+      "snapshot": "source.txt"
+    }
+  ],
+  "understanding": {
+    "story": [
+      {
+        "id": "E1",
+        "statement": "She brings a letter.",
+        "kind": "fact",
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "locator": "line 1"
+          }
+        ],
+        "scope": "passage",
+        "status": "supported"
+      }
+    ],
+    "characters": [],
+    "tone": [],
+    "ideas": [],
+    "highlights": [],
+    "ending": []
+  },
+  "quotes": [
+    {
+      "id": "Q1",
+      "text": "She brought the letter.",
+      "source_id": "S1",
+      "locator": "line 1",
+      "kind": "verbatim"
+    }
+  ],
+  "open_questions": []
+}

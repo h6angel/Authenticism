@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stance",
+    "type": "independent",
+    "prompt": "The Gift of the Magi obviously mocks love as worthless. Explain the whole story."
+  },
+  {
+    "id": "spoiler",
+    "type": "independent",
+    "prompt": "Introduce The Gift of the Magi without revealing its ending or central twist."
+  }
+]

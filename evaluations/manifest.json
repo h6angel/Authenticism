@@ -1,4 +1,91 @@
 {
-  "status": "scaffold",
-  "cases": []
+  "version": "1.0",
+  "cases": [
+    {
+      "id": "D01",
+      "split": "development",
+      "title": "The Yellow Wallpaper",
+      "path": "evaluations/cases/development/D01",
+      "modes": [
+        "research",
+        "fixed"
+      ],
+      "status": "author_smoke_only",
+      "primary_sources": [
+        "https://www.gutenberg.org/cache/epub/1952/pg1952-images.html"
+      ],
+      "result": "evaluations/results/D01-smoke",
+      "expectations_status": "provisional_until_primary_text_scoring"
+    },
+    {
+      "id": "D02",
+      "split": "development",
+      "title": "The Gift of the Magi",
+      "path": "evaluations/cases/development/D02",
+      "modes": [
+        "research",
+        "fixed"
+      ],
+      "status": "not_run",
+      "primary_sources": [
+        "https://www.gutenberg.org/ebooks/2776"
+      ],
+      "expectations_status": "provisional_until_primary_text_scoring"
+    },
+    {
+      "id": "D03",
+      "split": "development",
+      "title": "The Fall of the House of Usher",
+      "path": "evaluations/cases/development/D03",
+      "modes": [
+        "research",
+        "fixed"
+      ],
+      "status": "not_run",
+      "primary_sources": [
+        "https://www.gutenberg.org/cache/epub/932/pg932-images.html"
+      ],
+      "expectations_status": "provisional_until_primary_text_scoring"
+    },
+    {
+      "id": "D04",
+      "split": "development",
+      "title": "The Happy Prince",
+      "path": "evaluations/cases/development/D04",
+      "modes": [
+        "research",
+        "fixed"
+      ],
+      "status": "not_run",
+      "primary_sources": [
+        "https://www.gutenberg.org/ebooks/902"
+      ],
+      "expectations_status": "provisional_until_primary_text_scoring"
+    },
+    {
+      "id": "H01",
+      "split": "holdout",
+      "title": "The Group Photograph",
+      "path": "evaluations/cases/holdout/H01",
+      "modes": [
+        "fixed"
+      ],
+      "status": "not_run",
+      "primary_sources": [],
+      "expectations_status": "synthetic_fixture"
+    },
+    {
+      "id": "H02",
+      "split": "holdout",
+      "title": "Supper",
+      "path": "evaluations/cases/holdout/H02",
+      "modes": [
+        "fixed"
+      ],
+      "status": "not_run",
+      "primary_sources": [],
+      "expectations_status": "synthetic_fixture"
+    }
+  ],
+  "fixture_revision": "English revision 1"
 }

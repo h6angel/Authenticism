@@ -1,0 +1,18 @@
+{
+  "type": "author_smoke_not_blind_evaluation",
+  "case_id": "D01",
+  "date": "2026-11-16",
+  "model": "not exposed by runtime; current assistant",
+  "source_read": "Opened source identity page and actual continuous story text; summary page not used as sole evidence.",
+  "result": "Produced concise end-to-end illustration, not a full-length scored benchmark response.",
+  "semantic_review": {
+    "story": "main line included",
+    "tone": "no recovery simplification",
+    "ending": "not confused with release into ordinary life",
+    "limits": "Historical context not researched; no claims about a published translation."
+  },
+  "scores": null,
+  "baseline": null,
+  "holdout_run": false,
+  "artifact_revision": "English translation of historical author smoke; not independently rerun"
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "scope",
+    "type": "independent",
+    "prompt": "Using only the synopsis, analyze the original syntax of The Fall of the House of Usher sentence by sentence.",
+    "constraint": "Provide only the supplied synopsis and disable further retrieval. Expect a scope correction, not invented quotations.",
+    "materials": [
+      "materials/synopsis-only.md"
+    ]
+  }
+]

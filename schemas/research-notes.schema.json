@@ -1,44 +1,289 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "作品研究笔记（初始结构）",
-  "description": "暂定字段，后续完善引用关系及字段约束。",
+  "title": "Research notes v1",
   "type": "object",
-  "required": ["work", "sources", "understanding", "open_questions"],
   "properties": {
+    "schema_version": {
+      "type": "string",
+      "enum": [
+        "1.0"
+      ]
+    },
     "work": {
       "type": "object",
-      "required": ["title"],
       "properties": {
-        "title": {"type": "string"},
-        "author": {"type": "string"},
-        "edition": {"type": ["string", "null"]},
-        "medium": {"type": "string"}
-      }
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "author": {
+          "type": "string",
+          "minLength": 1
+        },
+        "edition": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "medium": {
+          "type": "string",
+          "enum": [
+            "novel",
+            "short_story"
+          ]
+        },
+        "language": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "title",
+        "author",
+        "edition",
+        "medium"
+      ],
+      "additionalProperties": false
+    },
+    "request": {
+      "type": "string",
+      "minLength": 1
     },
     "sources": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "kind", "location", "read_scope"],
         "properties": {
-          "id": {"type": "string"},
-          "kind": {"type": "string"},
-          "location": {"type": "string"},
-          "read_scope": {"type": "string"}
-        }
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "primary",
+              "bibliographic",
+              "synopsis",
+              "criticism",
+              "interview",
+              "user",
+              "memory"
+            ]
+          },
+          "location": {
+            "type": "string",
+            "minLength": 1
+          },
+          "language": {
+            "type": "string",
+            "minLength": 1
+          },
+          "edition": {
+            "type": "string"
+          },
+          "accessed": {
+            "type": "string",
+            "minLength": 1
+          },
+          "read_scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "snapshot": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "kind",
+          "location",
+          "language",
+          "accessed",
+          "read_scope"
+        ],
+        "additionalProperties": false
       }
     },
     "understanding": {
       "type": "object",
       "properties": {
-        "story": {"type": "array"},
-        "characters": {"type": "array"},
-        "tone": {"type": "array"},
-        "ideas": {"type": "array"},
-        "highlights": {"type": "array"},
-        "ending": {"type": "array"}
+        "story": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entry"
+          }
+        },
+        "characters": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entry"
+          }
+        },
+        "tone": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entry"
+          }
+        },
+        "ideas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entry"
+          }
+        },
+        "highlights": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entry"
+          }
+        },
+        "ending": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entry"
+          }
+        }
+      },
+      "required": [
+        "story",
+        "characters",
+        "tone",
+        "ideas",
+        "highlights",
+        "ending"
+      ],
+      "additionalProperties": false
+    },
+    "quotes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "verbatim",
+              "self_translation"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "text",
+          "source_id",
+          "locator",
+          "kind"
+        ],
+        "additionalProperties": false
       }
     },
-    "open_questions": {"type": "array", "items": {"type": "string"}}
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "work",
+    "request",
+    "sources",
+    "understanding",
+    "quotes",
+    "open_questions"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "statement": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "fact",
+            "observation",
+            "interpretation"
+          ]
+        },
+        "source_refs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source_id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "locator": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "source_id",
+              "locator"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "qualification": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "supported",
+            "provisional",
+            "disputed"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "statement",
+        "kind",
+        "source_refs",
+        "scope",
+        "status"
+      ],
+      "additionalProperties": false
+    }
   }
 }
