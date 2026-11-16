@@ -28,6 +28,8 @@ The current scope is novels and short stories. Do not force poetry or drama into
 4. Follow [explanation.md](references/explanation.md) to plan the narrative throughline and breadth before drafting. Consult [examples.md](references/examples.md) for local interpretation and a complete synthetic essay.
 5. Review the finished essay for story continuity, distinct contributions from its sections, literary form, and evidence as described in explanation.md. Deliver a coherent literary explanation, not an evidence report.
 
+For whole-work explanations, plan both continuity and depth. A throughline organizes the explanation; it does not replace the development of important scenes, relationships, and artistic choices. Follow explanation.md to decide where to pause and explain before moving forward.
+
 For complete explanations, briefly announce major spoilers; honor requests to avoid them. Ask about identity only when ambiguity materially changes the answer. If primary text is unavailable, continue with reliable materials, briefly limit relevant claims, and do not fabricate language analysis.
 
 ## Tools and checks

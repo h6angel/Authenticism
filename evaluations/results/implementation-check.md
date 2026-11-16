@@ -49,3 +49,17 @@ Replaced the writing guide's optional topic outline with connected story overvie
 New notes use version 1.1 with context/reception groups and an essay plan; version 1.0 historical records remain readable. Shared schema validates field structure and the Python validator applies version-specific requirements. Added tests for required planning data, legacy compatibility, and reception source references. Quote matching is unchanged.
 
 All 15 unit/CLI tests passed after permission to rerun outside the system-temp sandbox restriction. Current fixture structure and one exact quote passed; the skill-creator UTF-8 quick validator and diff whitespace check passed. Historical D01 notes were also rechecked for compatibility. No new real-work literary evaluation or user-level skill installation was performed for this revision.
+
+## Explanation-depth revision (2026-11-16)
+
+Retained the whole-work throughline and added scene-level development, section plans identifying explanatory material, a distinction between repetition and further examination, and checks for transitions hidden by summary words. Added a thin-versus-developed comparison using the existing synthetic story and a cross-scene planning example. Reading guidance now checks uneven source coverage; rubric anchors distinguish plausible conclusions from developed explanation. No schema or script changes were needed.
+
+Validation: diff whitespace check and UTF-8 skill quick validation passed. All 15 unit/CLI tests passed on an approved rerun outside the system-temp sandbox restriction; the initial sandbox run had two temporary-directory permission errors.
+
+### Real-work regression: The Vegetarian
+
+Status: not_run. The user supplied a prior output, but no fresh independent session or matched comparison has been executed. No literary-quality improvement is claimed from tooling checks or from examples authored while revising the instructions.
+
+Use the unaugmented request `$authenticism 解析一下素食者这本书` in a fresh session. Compare the parent revision and revised skill under matched model, tools, output budget, and browsing conditions; preserve actual source coverage and source changes. Keep the earlier user output as a diagnostic example rather than a controlled baseline. Following protocol.md, save request, sources, research notes, explanation, and review.
+
+Inspect whether consequential transitions are explained rather than merely named; whether the artist and sister sections develop interactions and changing relationships; whether plant imagery is traced through changes rather than assigned one meaning; and whether additional prose adds supported understanding rather than repeated conclusions. Also check continuity, distinct section contributions, and unsupported specificity. Diagnose remaining weaknesses as retrieval, planning, or drafting gaps before adding further rules. Longer output alone does not pass this regression.

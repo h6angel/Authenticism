@@ -73,3 +73,26 @@ No external criticism or reception is attached to this invented story. In a rese
 ### Why the organization works
 
 The overview establishes the whole action before analysis. Subsequent paragraphs follow changes in the characters' practical situation, then distinguish the cup, the key, and narrative pacing rather than repeating one interpretation. The closing reflection arises from a specific repeated question. The omission of reception reflects the material available; a real work need not fill every possible category either.
+
+This miniature demonstrates organization, not the default length or compression ratio for a whole-novel explanation. More extensive works may require sustained attention to several scenes within a major section.
+
+## Plausible but underdeveloped versus explained
+
+Both versions below concern the synthetic story above. The thin version is not simply false; it reaches conclusions before showing enough of their development.
+
+Thin: The blue cup symbolizes the bond between mother and daughter, while the spare key represents the inaccessible past. The ending combines warmth and loss.
+
+Developed: At first the mother asks whether the cup remains beside the sink. The question ties it to a particular arrangement in the former home, while Lin's weekly maintenance tries to preserve that arrangement more broadly. Renovation separates the cup from the place: Lin can no longer keep the flat unchanged, but she can fulfill her mother's request to bring one object. In the final visit, the mother takes the paper beaker, leaving the familiar cup for Lin. Whatever her unstated motive, the cup now participates in something they do together instead of merely certifying that an empty home remains in order. The key receives no comparable use. It lies between them without restoring access to the former life. Warmth and loss arise from these different trajectories, rather than from objects carrying fixed symbolic definitions.
+
+Why the expansion helps: each return to the cup adds a changed circumstance or use. The explanation earns its conclusion through those changes; it does not repeat the claim that objects preserve connection.
+
+## Plan an interpretation that develops across scenes
+
+For the same story, a section plan might be:
+
+- Question: How does Lin's attempt to care for her mother change when preserving the flat becomes impossible?
+- Initial basis: Watering plants and reporting that everything is in order suggest care through maintaining the old arrangement.
+- Complication: The mother's request for the cup redirects attention from preserving a place to fulfilling a present request. This narrows the initial account; care cannot be equated only with keeping things unchanged.
+- Ending: Shared tea gives the cup a present use, while the unused key preserves unresolved loss. The new form of care does not erase separation.
+
+This is an example of development, not a required sequence. In a longer work, select the scenes that substantively alter the account; do not turn each scene into another illustration of an unchanged conclusion. A fully supported initial judgment may also survive later scenes without revision.

@@ -139,6 +139,14 @@ status: supported
 
 Record concise support and revision outcomes, not lengthy private deliberation. Attribute secondary accounts as secondary; source counts do not replace relevance and quality.
 
+### Material for sustained explanation
+
+Check whether the available material can support the major sections beyond their conclusions. Knowing that an event occurred may establish the story map without explaining how the interaction unfolds or why it changes a relationship.
+
+Prioritize gaps that affect the main explanation: a consequential transition, a character's changed action, competing wishes within a relationship, or the changing use of an image. Seek continuous primary passages where accessible; reliable detailed secondary accounts may support developments they actually describe, but not unobserved wording or narrative texture.
+
+Notice uneven coverage. Detailed access to the opening and only broad summaries of later parts can produce a concrete beginning followed by abstract discussion. Address important gaps before drafting, or limit the affected claims explicitly. Author interviews provide interpretive leads, not substitutes for scene evidence.
+
 ### Ready to write
 
 For a complete explanation, check that:

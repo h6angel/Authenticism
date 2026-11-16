@@ -12,9 +12,9 @@ Record fabricated quotations, major plot errors, confusion with adaptations, fal
 |---|---|---|---|
 | Accuracy | Central facts are wrong | Main line right, local errors or overclaims | Important facts and inferences reliable, scope clear |
 | Coverage | Cannot understand the work | Main line present, key relationship/turn/ending missing | Connected story development; form and relevant context/reception covered with appropriate selection |
-| Ideas | Generic labels or moral lessons | Themes identified, weak connections | Ideas developed through story and form with complexity |
+| Ideas | Generic labels or moral lessons | Plausible judgments, but their basis and development remain thin | Judgments developed through concrete scenes, relationship changes, and form; important tensions or limits explained |
 | Tone | Flattened or reversed | Broad label plausible, mechanisms weak | Character, narration, and effects distinguished; variation preserved |
-| Highlights | Generic praise | Specific feature named but underexplained | Shows how a choice gains force and serves the whole |
+| Highlights | Generic praise | Specific feature and broad effect identified, but its operation remains thin | Shows how a choice works in concrete material, tracing changes and effects on the whole where relevant |
 | Readability | Confusing or a verification checklist | Understandable but repetitive/disjointed | Sustained throughline; sections add distinct insights; clear to new readers and illuminating to returning readers |
 
 Scores 1 and 3 fall between adjacent anchors. Judge spoiler-free coverage within permitted scope. Mark irrelevant dimensions N/A for focused tasks, not 4.
