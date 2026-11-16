@@ -4,7 +4,7 @@
 
 Confirm the title, author, original title, translated title, edition, and medium. Resolve ambiguous titles from context; ask only if unresolved ambiguity affects the answer. Respond in the user's requested language, or match their request. Do not mistake a film synopsis for the novel.
 
-List the material needed for this task. A full explanation needs the story and ending, key relationships and scenes, tone, and artistic features. A follow-up needs only relevant gaps filled. Verify biographical facts, awards, and dates rather than inheriting earlier conversational assertions.
+Before topic-specific searches, map the material needed for the whole work: story development and ending, relationships, narrative form and tone, and distinctive scenes. Assess whether creation context, substantive criticism, reception, or cultural influence would materially improve understanding. Do not let the first compelling theme define all subsequent queries. A follow-up needs only relevant gaps filled. Verify biographical facts, awards, and dates rather than inheriting earlier conversational assertions.
 
 ## Discover sources
 
@@ -19,6 +19,12 @@ Build queries around gaps: combine the author and original/translated title with
 | Ideas and artistic features | Primary text and substantive criticism | Attribute distinctive borrowed interpretations |
 
 Automatically generated descriptions, marketing copy, and anonymous reactions are discovery leads. Reprints of the same description are not independent corroboration. Do not add sources merely to satisfy a count when primary text already establishes a fact.
+
+## Context, criticism, and reception
+
+Use criticism to discover and compare readings, not only to confirm the initial thesis. Distinguish a critic's argument, authorial intention, documented reader reception, and your own invitation to reflect. Seek substantive differences when they matter; do not manufacture a debate or collect famous names.
+
+For works with significant public reception, investigate concrete publication, translation, adaptation, controversy, or literary influence where relevant. Awards, popularity, public debate, influence on writing, and a social movement are different claims requiring appropriate evidence. Individual reviews cannot establish reader consensus; timing or thematic similarity alone cannot establish causal influence. Record useful findings under context/reception, or a brief reason for omitting that branch when irrelevant or unsupported.
 
 ## Open and read
 

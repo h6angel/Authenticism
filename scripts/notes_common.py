@@ -55,6 +55,12 @@ def validate(notes):
     errors = schema_errors(notes, schema, schema)
     if errors:
         return errors
+    if notes["schema_version"] == "1.1":
+        for group in ("context", "reception"):
+            if group not in notes["understanding"]:
+                errors.append(f"$.understanding.{group}: missing for v1.1")
+        if "essay_plan" not in notes:
+            errors.append("$.essay_plan: missing for v1.1")
     sources = notes["sources"]
     source_ids = [s["id"] for s in sources]
     entry_ids = [e["id"] for entries in notes["understanding"].values() for e in entries]

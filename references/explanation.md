@@ -1,51 +1,37 @@
 # Turn understanding into an explanation
 
-## Choose depth and spoiler scope
+## Choose scope
 
-An introduction establishes the story, central tension, distinctive reading experience, and a useful entry point. A detailed explanation connects characters, ideas, key scenes, and artistic features. A follow-up answers the current question without repeating the entire introduction.
+A bare request to explain a novel or short story defaults to a substantial whole-work essay. Establish what happens, how it is written, and why its particular choices matter. Do not default to a series of controversial questions. An introduction is shorter; a focused follow-up answers its question without repeating the whole essay. Honor explicit length and spoiler limits. Briefly flag major spoilers for complete explanations; use only permitted developments for spoiler-free requests.
 
-Honor requested length and spoiler limits. For complete explanations, briefly flag major events and the ending. For spoiler-free requests, use the opening situation and early scenes; do not pretend to explain the ending without revealing it.
+## Plan before drafting
 
-## Organize for the reader
+Build an editorial plan from the research, rather than turning note categories into headings. Record the intended throughline, the distinct contribution of each planned section, and why contextual or reception material is included or omitted. Planning statements are editorial choices; factual assertions belong in sourced understanding entries.
 
-Open with what kind of work this is and its most important tension. Keep necessary background brief. Explain relationships and story movement, pausing at consequential scenes to explain actions rather than summarizing every chapter equally.
+The throughline should follow the work's development and allow several dimensions to emerge. A central tension can guide selection, but must not turn every scene, artistic choice, and critical voice into proof of one proposition. For non-plot-driven works, follow changes in consciousness, imagery, or voice.
 
-Develop central ideas through the story and its telling: what problem does the work intensify, and how does the ending complicate it? Explain the most powerful artistic choices. Carry tone through details, wording, and emphasis. Give form or the ending a separate section only when useful. For works driven by consciousness, imagery, or voice, follow that movement instead of imposing conventional plot.
+## Give the reader a whole work
 
-## Optional Markdown shape
+After orientation and spoiler scope, provide a connected story overview appropriate to the request: initial life and relationships, disruption, consequential developments, and outcome. It may occupy several paragraphs or be integrated into the opening movement. A new reader should not have to reconstruct the story from examples scattered across arguments.
 
-```markdown
-# Title: a phrase identifying the work's distinctive quality
+Carry that development into the analysis. At a consequential scene, establish where the characters now stand, what changes, and how that change opens the next problem. Refer back briefly rather than retelling the same event at length under several headings. A plot summary at the start does not excuse a disconnected remainder.
 
-Opening, necessary context, and spoiler scope.
+Give literary form its own explanatory weight: how perspective, language, structure, rhythm, or images shape what the reader experiences, within actual reading coverage. Do not use every formal feature solely as evidence of a social or psychological theme. Preserve tonal variation and distinguish character emotion, narrative treatment, and possible reader response.
 
-## How the story and relationships develop
-Explain characters naturally within consequential scenes.
+Integrate context and criticism when they change understanding. Explain what a named critic notices and how it illuminates or complicates the reading. Context should connect to concrete choices in the work. Documented reception and influence may deserve a passage for a culturally significant work; omit unsupported claims rather than padding the essay. Do not attach a mandatory biography, famous-critic list, or history of movements to every title.
 
-## The work's central tension
-Connect story and form to its ideas and their complexity.
+Invite reflection through unresolved details and reading experiences: where sympathy shifts, an image changes meaning, or an explanation fails to account for a character. Distinguish these invitations from claims about actual readers. Do not replace the work with general life advice.
 
-## What deserves a closer look
-Explain representative scenes, language, or structure and their power.
+Use headings and paragraph proportions suited to the work. No fixed section count, critic quota, or word minimum establishes completeness. Expand by adding distinct, supported understanding, not by paraphrasing the same thesis. Keep research logs and note IDs in the background; attribute borrowed interpretations and respect quotation limits.
 
-## How the ending completes the work
-Include only when useful.
+## Review the finished essay
 
-A closing understanding of the whole work.
+Review the actual prose, not just the notes. For detailed deliverables and evaluations, record a brief semantic review in review.json: strengths, concrete gaps, and revisions or remaining limitations. No automated literary score is required.
 
-Principal sources: concise links and edition information.
-```
+- Can a new reader recount the principal development without assembling scattered examples? Does the analysis retain that movement?
+- Does each section add a distinct insight? Have different subjects collapsed into repetitions of one ethical or psychological argument?
+- Can the reader explain something distinctive about how the work is written and what ordinary synopsis would lose?
+- Does selected criticism add a perspective rather than borrowed authority? Are context and reception proportionate and sourced?
+- Are facts, quotations, adaptations, scope of reading, and tonal judgments reliable? Would substantial passages survive unchanged under another title?
 
-These are content relationships, not mandatory headings. Organize around characters, events, or tensions as appropriate. Avoid recounting the same event three times under plot, psychology, and ideas. Do not expose hypothesis IDs, evidence matrices, or search logs unless requested. Integrate short quotations and details naturally instead of writing an argument checklist.
-
-## Expression and final review
-
-- Preserve tone throughout; labeling a work cruel or tender is insufficient. Clear explanation does not require imitating a narrator's abuse of characters.
-- Explain how an artistic highlight works, not merely that the prose is beautiful or the structure ingenious.
-- Do not reduce central ideas to theme labels or an unsupported life lesson attributed to the author.
-- Match interpretive strength to evidence. State important limitations briefly without overwhelming the essay.
-- Attribute distinctive borrowed ideas, label self-translations, and respect source/tool quotation limits.
-
-Check: can a new reader follow the relationships and turning points? Does a returning reader learn something specific? Are important scenes or the ending missing? Have adaptations intruded? Would the analysis survive unchanged under another title? Has habitual explanatory language flattened the tone? Return to material or revise where needed.
-
-Default to Markdown in chat. Save a file when requested or needed for evaluation artifacts.
+Repair omissions in the draft or return to research. State material limits briefly; do not imply an unread whole text was closely analyzed. Default to Markdown in chat; save a file when requested or needed for evaluation artifacts.

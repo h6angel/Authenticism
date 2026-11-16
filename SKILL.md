@@ -22,11 +22,11 @@ The current scope is novels and short stories. Do not force poetry or drama into
 
 ## Workflow
 
-1. Identify the work, medium, and requested depth.
+1. Identify the work, medium, and requested depth. An unqualified request to explain a work calls for a substantial whole-work explanation, not a short issue-based Q&A.
 2. Follow [research.md](references/research.md) to search independently, open sources, and record actual reading coverage. Do not assume the user will upload a document.
-3. Follow [reading.md](references/reading.md) to connect story, tone, ideas, and form; investigate important gaps.
-4. Follow [explanation.md](references/explanation.md) to write for the reader. Consult [examples.md](references/examples.md) when useful.
-5. Check facts, quotations, omissions, generic claims, and tonal distortion. Deliver a coherent Markdown explanation, not an evidence report.
+3. Follow [reading.md](references/reading.md) to establish the whole work before selecting interpretive questions; connect story, tone, ideas, and form, and investigate important gaps.
+4. Follow [explanation.md](references/explanation.md) to plan the narrative throughline and breadth before drafting. Consult [examples.md](references/examples.md) for local interpretation and a complete synthetic essay.
+5. Review the finished essay for story continuity, distinct contributions from its sections, literary form, and evidence as described in explanation.md. Deliver a coherent literary explanation, not an evidence report.
 
 For complete explanations, briefly announce major spoilers; honor requests to avoid them. Ask about identity only when ambiguity materially changes the answer. If primary text is unavailable, continue with reliable materials, briefly limit relevant claims, and do not fabricate language analysis.
 

@@ -11,11 +11,11 @@ Record fabricated quotations, major plot errors, confusion with adaptations, fal
 | Dimension | 0 | 2 | 4 |
 |---|---|---|---|
 | Accuracy | Central facts are wrong | Main line right, local errors or overclaims | Important facts and inferences reliable, scope clear |
-| Coverage | Cannot understand the work | Main line present, key relationship/turn/ending missing | Necessary content covered with appropriate selection |
+| Coverage | Cannot understand the work | Main line present, key relationship/turn/ending missing | Connected story development; form and relevant context/reception covered with appropriate selection |
 | Ideas | Generic labels or moral lessons | Themes identified, weak connections | Ideas developed through story and form with complexity |
 | Tone | Flattened or reversed | Broad label plausible, mechanisms weak | Character, narration, and effects distinguished; variation preserved |
 | Highlights | Generic praise | Specific feature named but underexplained | Shows how a choice gains force and serves the whole |
-| Readability | Confusing or a verification checklist | Understandable but repetitive/disjointed | Clear to new readers, illuminating to returning readers |
+| Readability | Confusing or a verification checklist | Understandable but repetitive/disjointed | Sustained throughline; sections add distinct insights; clear to new readers and illuminating to returning readers |
 
 Scores 1 and 3 fall between adjacent anchors. Judge spoiler-free coverage within permitted scope. Mark irrelevant dimensions N/A for focused tasks, not 4.
 

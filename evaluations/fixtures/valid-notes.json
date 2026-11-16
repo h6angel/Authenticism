@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "work": {
     "title": "Synthetic letter",
     "author": "Project fixture",
@@ -39,7 +39,9 @@
     "tone": [],
     "ideas": [],
     "highlights": [],
-    "ending": []
+    "ending": [],
+    "context": [],
+    "reception": []
   },
   "quotes": [
     {
@@ -50,5 +52,12 @@
       "kind": "verbatim"
     }
   ],
-  "open_questions": []
+  "open_questions": [],
+  "essay_plan": {
+    "throughline": "Follow the offered letter and its repurposing to explain the failed recognition.",
+    "sections": [
+      "Establish the short action sequence, then examine how object use creates the tonal effect."
+    ],
+    "context_reception_decision": "Omitted: this synthetic passage has no external reception or creation history."
+  }
 }

@@ -41,3 +41,11 @@ The Skills CLI command `npx --yes skills add . --list` successfully discovered e
 ## Effectiveness status
 
 Independent baseline comparisons, repeated runs, dual-reader scoring, and real-work holdout evaluation have not been executed. No independent model runner is configured; no additional chats or delegated agents were created. These checks cannot establish improved literary sensitivity. Follow protocol.md in independent sessions for that validation.
+
+## Whole-work explanation revision (2026-11-16)
+
+Replaced the writing guide's optional topic outline with connected story overview, editorial planning, sustained development, independent attention to form, and proportionate context/reception. Updated research selection and completion criteria rather than adding a parallel workflow. Added a complete original miniature story and essay to the existing examples; it is illustrative, not an independent behavioral test.
+
+New notes use version 1.1 with context/reception groups and an essay plan; version 1.0 historical records remain readable. Shared schema validates field structure and the Python validator applies version-specific requirements. Added tests for required planning data, legacy compatibility, and reception source references. Quote matching is unchanged.
+
+All 15 unit/CLI tests passed after permission to rerun outside the system-temp sandbox restriction. Current fixture structure and one exact quote passed; the skill-creator UTF-8 quick validator and diff whitespace check passed. Historical D01 notes were also rechecked for compatibility. No new real-work literary evaluation or user-level skill installation was performed for this revision.

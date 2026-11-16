@@ -41,6 +41,31 @@ class ToolsTest(unittest.TestCase):
         self.notes["understanding"]["story"][0]["source_refs"] = []
         self.assertTrue(validate(self.notes))
 
+    def test_v11_plan_and_groups_required(self):
+        for key in ("context", "reception"):
+            n = copy.deepcopy(self.notes)
+            del n["understanding"][key]
+            self.assertTrue(validate(n))
+        n = copy.deepcopy(self.notes)
+        del n["essay_plan"]
+        self.assertTrue(validate(n))
+        self.notes["essay_plan"]["sections"] = []
+        self.assertTrue(validate(self.notes))
+
+    def test_legacy_notes_still_validate(self):
+        self.notes["schema_version"] = "1.0"
+        self.notes.pop("essay_plan")
+        for key in ("context", "reception"):
+            self.notes["understanding"].pop(key)
+        self.assertEqual(validate(self.notes), [])
+
+    def test_reception_references_are_checked(self):
+        entry = copy.deepcopy(self.notes["understanding"]["story"][0])
+        entry["id"] = "R1"
+        entry["source_refs"][0]["source_id"] = "missing"
+        self.notes["understanding"]["reception"].append(entry)
+        self.assertTrue(validate(self.notes))
+
     def test_mismatch(self):
         self.notes["quotes"][0]["text"] = "A sentence that was never written."
         self.assertEqual(check(self.notes, self.base)[1], 1)

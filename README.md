@@ -48,7 +48,7 @@ $authenticism Explain The Yellow Wallpaper and save the explanation as Markdown.
 
 No source-document upload is required. The skill uses Codex's available search and reading tools, distinguishes primary text from criticism and adaptations, and connects interpretation to actual details. It follows your requested language; English instructions do not restrict explanations to English.
 
-The result is a coherent literary explanation, not a table of evidence. Detailed tasks can also retain research notes and verification records in the output directory you choose.
+A general explanation provides a connected story overview and a sustained throughline, with close attention to literary form. Creation context, criticism, and reception are included when they add supported understanding. The result is a coherent literary explanation, not a table of evidence. Detailed tasks can also retain research notes and verification records in the output directory you choose.
 
 ## Requirements and limitations
 

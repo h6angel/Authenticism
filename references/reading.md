@@ -30,7 +30,7 @@ Use these questions as needed. Not every work has conventional plot, an explicit
 | Artistic highlights | Irreplaceable language, structure, images, scenes | What a conventional retelling would lose |
 | Ending | Resolution, displacement, suspension, or reinterpretation | Earlier details it completes or changes |
 
-Build a concise picture of the story and relationships, then deepen it through consequential scenes. Revise that picture as reading proceeds. In non-plot-driven work, follow consciousness, imagery, or voice instead of inventing a complete causal story.
+Build a connected account of the initial situation, consequential changes, turning points, and outcome, distinguishing narrative order from event order. Keep this account in story notes with sources; isolated event facts are insufficient for a whole-work task. Then deepen it through consequential scenes. Revise that picture as reading proceeds. In non-plot-driven work, follow consciousness, imagery, or voice instead of inventing a complete causal story.
 
 Prioritize scenes where relationships or actions change, recurring patterns concentrate, the ending becomes intelligible, or narrative attention is unusually sustained. Do not select only dramatic moments or passages matching an initial theme.
 
@@ -143,7 +143,8 @@ Record concise support and revision outcomes, not lengthy private deliberation. 
 
 For a complete explanation, check that:
 
-- Main relationships, conflicts, turns, and ending are understood, or the work's departure from those conventions is understood.
+- Main relationships, conflicts, turns, and ending form a connected account, or the movement of consciousness, imagery, or voice is understood for works departing from those conventions.
+- Creation context and reception have been assessed for relevance; selected material adds understanding beyond repeating the main interpretation.
 - Distinctive scenes are available, including uncomfortable material important to the whole.
 - Tone has an explainable mechanism; character, narration, and response are distinguished and variation examined.
 - Central ideas connect events and form; artistic highlights can be explained concretely.
