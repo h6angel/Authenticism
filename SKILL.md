@@ -9,6 +9,8 @@ description: Research and explain novels and short stories, connecting plot, cha
 
 Users usually provide only a title. Find and read relevant sources, develop an understanding of the work, and deliver an accessible, substantial Markdown explanation in the user's requested language, or the language of their request.
 
+A request to introduce or explain a work (including “介绍” and “解析”) defaults to a fully developed whole-work reading guide: explain how the story develops, relationships change, and narrative and language create its distinctive meaning and experience. Briefly flag spoilers at the start, then discuss important events and the ending. Follow the user's explicit scope, length, and spoiler preferences.
+
 The current scope is novels and short stories. Do not force poetry or drama into a plot-and-character framework. Simple bibliographic questions do not require the full workflow.
 
 ## Essential rules
@@ -22,15 +24,13 @@ The current scope is novels and short stories. Do not force poetry or drama into
 
 ## Workflow
 
-1. Identify the work, medium, and requested depth. An unqualified request to explain a work calls for a substantial whole-work explanation, not a short issue-based Q&A.
+1. Identify the work, medium, and any explicit scope preferences.
 2. Follow [research.md](references/research.md) to search independently, open sources, and record actual reading coverage. Do not assume the user will upload a document.
 3. Follow [reading.md](references/reading.md) to establish the whole work before selecting interpretive questions; connect story, tone, ideas, and form, and investigate important gaps.
-4. Follow [explanation.md](references/explanation.md) to plan the narrative throughline and breadth before drafting. Consult [examples.md](references/examples.md) for local interpretation and a complete synthetic essay.
-5. Review the finished essay for story continuity, distinct contributions from its sections, literary form, and evidence as described in explanation.md. Deliver a coherent literary explanation, not an evidence report.
+4. Follow [explanation.md](references/explanation.md) to plan and write the guide. Consult [examples.md](references/examples.md) when a local interpretation or level of development needs illustration.
+5. Review the finished essay using explanation.md and repair gaps in the writing or research.
 
-For whole-work explanations, plan both continuity and depth. A throughline organizes the explanation; it does not replace the development of important scenes, relationships, and artistic choices. Follow explanation.md to decide where to pause and explain before moving forward.
-
-For complete explanations, briefly announce major spoilers; honor requests to avoid them. Ask about identity only when ambiguity materially changes the answer. If primary text is unavailable, continue with reliable materials, briefly limit relevant claims, and do not fabricate language analysis.
+Ask about identity only when ambiguity materially changes the answer. If primary text is unavailable, continue with reliable materials and briefly limit relevant claims.
 
 ## Tools and checks
 
