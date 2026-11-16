@@ -6,7 +6,7 @@ Use the whole-work scope defined in SKILL.md; focused follow-ups address their q
 
 ## Write an article that develops
 
-For a whole-work guide, use one Markdown H1 title and meaningful H2 section headings. Orient the reader to the work and establish the connected principal story, then develop the analysis through its events, relationships, or consciousness. Let questions arising in one section lead into the next.
+Orient the reader to the work and establish the connected principal story, then develop the analysis through its events, relationships, or consciousness. Let questions arising in one section lead into the next.
 
 Pause at scenes that determine understanding: establish the concrete situation and actions, explain what changes between the characters, and show how this affects what follows. Let judgments arise through that explanation. Summarize connecting events more briefly and give the scenes carrying the interpretation enough space to develop. Revisit material when a new detail or consequence changes its meaning.
 
@@ -15,6 +15,10 @@ Explain how perspective, language, structure, rhythm, and images create the work
 Include context and criticism where they change understanding of concrete choices in the work. Attribute borrowed interpretations and respect quotation limits. Keep research records in the background and state material limits briefly. Reflection should emerge from the work's unresolved details and effects.
 
 Let the material determine length. When shortening, remove repeated judgments and generic commentary while retaining what the reader needs to understand consequential changes, characters, and artistic treatment.
+
+## Markdown hierarchy
+
+Render the guide directly as Markdown: one `#` title for the article, `##` headings for its main movements, and `###` subheadings where a longer section develops subordinate questions. Keep peer sections at the same level and use headings that convey their content and relationship. Leave a blank line around headings and between paragraphs. Bold emphasizes a phrase within prose; it does not replace section headings. Choose the divisions to fit the article rather than imposing a fixed outline.
 
 ## Review the finished article
 
