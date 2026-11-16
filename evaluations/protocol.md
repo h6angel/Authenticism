@@ -4,6 +4,10 @@
 
 Fixed-material mode provides only the request and identical material packs, isolating reading from retrieval. Research mode provides only the request and allows search. Manifest primary_sources are preparation leads, not proof of reading. Synthetic material tests no external factual knowledge.
 
+## Output location
+
+Default new runs to `evaluations/local-runs/<run-name>/` (Git-ignored), and give that path explicitly to executors. Reserve `evaluations/results/` for selected, deliberately published evidence supporting a version check or comparison. Preserve the request, actual outputs, relevant source and execution records, review, and a report of conditions and limitations when promoting a run; verify relative links and source-snapshot paths. Do not publish every trial run. Existing published records remain tracked. See [development guidance](../docs/development.md#where-to-save-evaluation-runs).
+
 ## Development and holdout
 
 Revise on development cases, freeze the skill version, then run holdouts. Task executors must not read expectations or scoring answers in advance; raters should read them. Mark holdouts used to tune rules as consumed. The repository author knows these cases, so author runs are smoke checks, not independent blind evaluations.

@@ -1,2 +1,5 @@
 __pycache__/
 *.py[cod]
+
+# Temporary evaluation runs; publish selected evidence under evaluations/results/.
+/evaluations/local-runs/

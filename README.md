@@ -1,118 +1,97 @@
 # Authenticism
 
-A research-driven literary explanation skill for Codex. Give it a novel or short-story title; it finds relevant sources and explains the story, characters, central ideas, and artistic highlights while preserving the work's distinctive tone.
+**读懂一部小说，也读懂它为什么这样写。**
 
-Authenticism aims to prevent generic interpretations from flattening a work into a familiar story of trauma, growth, or redemption. It also avoids the opposite bias: imposing cruelty or hidden malice on a genuinely tender work.
+一个用于小说与短篇的文学解析 Skill。从故事、人物和具体文字出发，解释作品如何产生它独有的情感与意味，也支持围绕一个场景、一句话继续讨论。
 
-## Install
+[看看实际回答](#看看实际回答) · [快速安装](#快速安装) · [第一次使用](#第一次使用)
 
-Install with the community [Skills CLI](https://github.com/vercel-labs/skills). You need Node.js 22.20 or later and access to this repository.
+## 看看实际回答
+
+**提问**
+
+> 接着聊《变形记》：为什么格里高尔变成虫以后，仍然首先担心上班迟到？请聚焦这个问题，不必重讲全书。
+
+**真实回答节选**（中间有省略，所选段落保留原文）
+
+> 因为对格里高尔来说，**上班已经成了一种先于自我保护的责任反射**：身体出了不可思议的事，他仍先用工作日的规则判断自己。
+>
+> 不过，“首先担心迟到”需要稍作细分：他起初也惊疑、试图翻身，还想继续睡，把这件事忘掉。但思绪很快转向出差的疲惫、列车和老板。这个转向说明，工作早已占据了他理解生活的主要位置。
+
+……
+
+> 卡夫卡把这两种尺度并排放着：读者看到一个人遭遇了生存的巨变，他却还在计算怎样赶上下一班车。这里有荒诞的滑稽，也有令人难受的认真——**他已经无法正常起床，却仍觉得自己有义务按时到岗。** 变形立即改变了他的身体，却没有立即解除他心里那套责任和惩罚的秩序。
+
+[阅读完整回答](evaluations/results/runtime-simplification/runs/after-followup/answer.md) · [查看执行与材料记录](evaluations/results/runtime-simplification/runs/after-followup/execution.json)
+
+这份回答来自 2026-11-16 的一次开发运行。执行者阅读了 David Wyllie 英译本第一章开篇，未通读全篇或德文原作；确切模型版本未向执行者暴露。问题虽以“接着聊”开头，测试只提供了这一条自足问题，没有先前对话，因此这里只展示聚焦问答的效果。它不是多轮对话测试，也不是 skill 与无 skill 的效果对比。
+
+想看完整作品解析，可以阅读同次开发比较中的[《黄色墙纸》回答](evaluations/results/runtime-simplification/runs/after-analysis/answer.md)（含结尾剧透）。
+
+## 快速安装
+
+在终端运行，使用社区 [Skills CLI](https://github.com/vercel-labs/skills) 安装到 Codex：
 
 ```bash
 npx skills add h6angel/Authenticism --skill authenticism -a codex -g
 ```
 
-This installs for your user across projects. Omit `-g` to install only in your current project:
+需要 Node.js、可用的网络，以及仓库访问权限。`-g` 表示用户级安装；只想在当前项目使用时，去掉 `-g`。如果仓库为私有仓库，需要先配置 Git/GitHub 身份验证。
 
-```bash
-npx skills add h6angel/Authenticism --skill authenticism -a codex
-```
+Codex 通常会自动发现已安装的 skill；若没有出现，可重启 Codex。命令安装的是 GitHub 上的版本，本地尚未推送的修改不会包含在内。
 
-Browse the available skill before installing:
+## 第一次使用
 
-```bash
-npx skills add h6angel/Authenticism --list
-```
-
-Codex normally discovers installed skills automatically. If it does not appear, restart Codex. For private repositories, configure Git/GitHub authentication as described in the [CLI reference](https://github.com/vercel-labs/skills/blob/main/docs/commands.md).
-
-The commands above install the version published on GitHub. Uncommitted or unpushed local changes are not included. There is no separate Authenticism npm package, hosted service, or API key requirement.
-
-## Use
-
-Mention the skill explicitly in a Codex prompt:
+在 Codex 中明确提及 `$authenticism`，给出作品名和你关心的问题即可：
 
 ```text
-$authenticism Explain Elfriede Jelinek's The Piano Teacher in detail.
-Cover the story, characters, central ideas, artistic highlights, and ending.
-Spoilers are welcome.
+$authenticism 详细解析吉尔曼的《黄色墙纸》，包括故事、人物关系、
+写作方式和结尾。可以剧透。
 ```
 
-```text
-$authenticism Introduce The Gift of the Magi without revealing the twist.
-```
+也可以从不同的阅读需要出发：
 
-```text
-$authenticism Explain The Yellow Wallpaper and save the explanation as Markdown.
-```
+| 想做什么 | 可以这样问 |
+| --- | --- |
+| 阅读前了解作品 | `$authenticism 介绍《麦琪的礼物》，不要透露结尾反转。` |
+| 细读一个场景 | `$authenticism 《黄色墙纸》中，月夜里夫妻的谈话为什么是一个转折？` |
+| 讨论另一种理解 | `$authenticism 我觉得《黄色墙纸》的结尾也有解放感，这种读法有什么依据和局限？` |
+| 保存解析 | `$authenticism 解析《变形记》，并保存为 Markdown 文件。` |
 
-No source-document upload is required. The skill uses Codex's available search and reading tools, distinguishes primary text from criticism and adaptations, and connects interpretation to actual details. It follows your requested language; English instructions do not restrict explanations to English.
+不必先上传原文；它会使用当前环境提供的搜索和阅读工具寻找材料。若你关注某个译本或特定措辞，提供版本或段落会更有帮助。回答跟随你的语言和剧透要求；未特别指定时，作品介绍与解析默认展开全书脉络，并在开头提示剧透。
 
-A general explanation provides a connected story overview and a sustained throughline, with close attention to literary form. Creation context, criticism, and reception are included when they add supported understanding. The result is a coherent literary explanation, not a table of evidence. Ordinary chat does not generate a research archive. Research records are saved when requested or needed for evaluation; direct-quotation verification uses the necessary notes and source excerpts. Requesting an essay file alone does not require those additional files.
+## 它怎样读作品
 
-## Requirements and limitations
+- **把故事和写法连起来。** 说明人物经历了什么，也解释叙述视角、语言、节奏和细节怎样影响阅读感受。
+- **让解释回到文本。** 从具体情节与措辞展开判断，区分原作、译文、改编和评论；材料不足时说明依据，不虚构引文。
+- **保留作品自己的语气。** 不把每部作品都讲成创伤、成长或救赎，也不预先把温柔解释成隐藏的恶意。
+- **围绕你的问题继续讨论。** 可以介绍整部作品，也可以聚焦局部、检视另一种读法；普通问答不要求生成研究档案，单独导出文章也不要求附带整套记录。
 
-- Codex or another compatible agent must provide the underlying model and tools. Installing a skill does not add a search engine or connector.
-- Web search and page-reading access are needed for independent online research. If unavailable, the skill explains the limitation and works within accessible material.
-- Optional verification scripts require Python 3.10+ and use only the standard library. The core instructions do not need Python to be read.
-- The current reading framework focuses on novels and short stories.
-- Primary text may be inaccessible. The skill must not imply a full close reading, invent quotations, or attribute translated wording to an unread original.
+## 使用条件与边界
 
-## Update or uninstall
+目前主要面向 Codex，阅读框架聚焦小说和短篇；其他代理平台的兼容性未在这里作验证承诺。
 
-For the user-level installation:
+Skill 提供方法与指令，模型、搜索和页面阅读能力由运行环境提供。无法联网或取得原文时，回答应说明限制，不把二手材料包装成全文细读，也不把未读原作的译文措辞归给原作者。可选的研究记录校验脚本需要 Python 3.10+；日常使用不依赖 Python。
+
+现有示例展示实际输出，但尚不能证明它稳定优于普通提问。当前只有有限的开发检查和单次前后版本比较，没有完成 skill 对无 skill 的基线、重复运行或人工评分。详见[开发与评估说明](docs/development.md#evaluation-status)。
+
+## 更新与卸载
+
+用户级安装：
 
 ```bash
 npx skills update authenticism -g
 npx skills remove authenticism -a codex -g
 ```
 
-For a project installation, use `npx skills update authenticism -p` and omit `-g` from the remove command. See the [Skills CLI documentation](https://github.com/vercel-labs/skills/blob/main/docs/commands.md) for scope and installation options.
+项目级安装使用 `npx skills update authenticism -p`，卸载时去掉 `-g`。更多选项见 [Skills CLI 文档](https://github.com/vercel-labs/skills/blob/main/docs/commands.md)。
 
-## Develop locally
+## 这段解析没有说服你？
 
-Clone the repository, then install your checkout into a separate test project if you want to test changes before publishing:
+欢迎通过 [GitHub Issues](https://github.com/h6angel/Authenticism/issues) 反馈：提供作品与作者、原始提问、回答片段、使用的模型环境，以及你认为没有贴合文本的地方。情节有误、解释缺少依据、忽略反例或没有保留作品语气，都值得讨论。
 
-```bash
-git clone https://github.com/h6angel/Authenticism.git
-cd Authenticism
-npx skills add . --list
-```
+## 开发与评估
 
-From a separate test project's directory, replace the path below with your checkout:
+[开发、目录与校验命令](docs/development.md) · [评估协议](evaluations/protocol.md) · [前后版本比较报告](evaluations/results/runtime-simplification/report.md)
 
-```bash
-npx skills add /path/to/Authenticism --skill authenticism -a codex
-```
-
-The root `SKILL.md` is the installable skill entry point; no nested skill folder or custom installer is required. The CLI can install supporting repository files, including development materials. Those materials are not loaded during normal use. This repository does not currently publish a separate minimal release archive.
-
-## Repository layout
-
-```text
-SKILL.md              Entry point and essential rules
-agents/               Codex interface metadata
-references/           Research, reading, explanation, and note formats
-schemas/              Research-note JSON schema
-scripts/              Structural and quotation checks
-tests/                Script tests
-evaluations/          Cases, scoring protocol, fixtures, and recorded results
-```
-
-## Validate
-
-Run from the repository root:
-
-```bash
-python -X utf8 -m unittest discover -s tests -v
-python -X utf8 scripts/validate_notes.py evaluations/fixtures/valid-notes.json
-python -X utf8 scripts/check_quotes.py evaluations/fixtures/valid-notes.json
-```
-
-For your own task, replace the fixture path with its `research-notes.json`. Scripts emit JSON: exit code `0` means passed, `1` means invalid input or mismatch, and `2` means a quotation cannot be verified. A textual match does not prove attribution, context, or literary quality.
-
-## Evaluation status
-
-The repository includes four development cases, two synthetic holdout passages, adversarial variants, a scoring rubric, and a research-to-explanation smoke example. Mechanical tests have passed. A [single-run before/after development comparison](evaluations/results/runtime-simplification/report.md) covers three requests with independent executors and one blinded model reviewer. It found usable outputs under shorter instructions, without consistent quality improvement. Skill-versus-no-skill baselines, repeated runs, human scoring, and whole-novel generalization remain untested; improved literary sensitivity is a design goal, not a demonstrated benchmark result.
-
-See [the evaluation protocol](evaluations/protocol.md) and [implementation checks](evaluations/results/implementation-check.md). Translated fixtures are a revised evaluation set; historical smoke checks do not establish performance on the revised set.
+`SKILL.md` 是技能入口；`references/` 提供阅读方法，`agents/` 提供 Codex 界面元数据。`evaluations/results/` 保存已记录的开发评估证据，不是使用 skill 必须读取的资料，也不是日常回答的保存目录。当前没有单独的精简发布包，安装工具可能把这些开发资料一起带入安装目录。
